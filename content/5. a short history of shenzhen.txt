@@ -1,0 +1,27 @@
+# A short history of Shenzhen
+
+Today, Shenzhen is at the very heart of the global production (and increasingly, design) of connected products: If we wanted to point at the origin of most of today's consumer-facing Internet of Things, it mainly boils down to two places: Silicon Valley for the service/software side. And Shenzhen for the device/hardware side. Naturally there are other influential regions, but these two have the lead in their respective areas, with a large margin.
+
+In order to understand Shenzhen better, a quick look at its short history provides some insight. 
+
+Shenzhen is a special place not just for its role in global manufacturing but also for its history: It was one of China's first Special Economic Zones (SEZ) announced by Deng Xiaoping in 1979. SEZs have been the Chinese government's way of experimenting with more free market-oriented policies, and to attract foreign investment. As [Encyclopædia Britannica](https://www.britannica.com/topic/special-economic-zone) puts it: Special Economic Zones are "localities in which foreign and domestic trade and investment are conducted without the authorization of the Chinese central government in Beijing. Special economic zones are intended to function as zones of rapid economic growth by using tax and business incentives to attract foreign investment and technology."
+
+Shenzhen's official city motto translates to this: "Time is money, efficiency is life."
+
+/images/shenzhen_skyline_peterbihr.jpg "The hazy Shenzhen skyline as seen from our hotel in November 2016. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30899080436/) (CC by-nc-sa)"
+
+The SEZ of Shenzhen has been an outstanding success at an almost unbelievable scale. As Juan Du, Assistant Professor in the Department of Architecture at the University of Hong Kong, [describes](http://asiasociety.org/history-city-without-history): "The scope, speed and scale of transformation both from a social point of view, and from a geographical point of view, is quite unprecedented in human history." From an estimated population of 30.000 then it grew to the 10-15 million residents ([Wikipedia](https://en.wikipedia.org/wiki/List_of_cities_in_China_by_population_and_built-up_area)) today—within less than 40 years. That's the population of 3-5x Berlin and just about 10-12x Amsterdam. Not bad for a city hardly 30 years old—and famous not for being a city but almost more of a city-sized factory.
+
+Population growth only tells part of the story, though. In a profile of Shenzhen, [The Economist](http://www.economist.com/news/special-report/21720076-copycats-are-out-innovators-are-shenzhen-hothouse-innovation) shares some economic numbers: "Between 1980 and 2016 Shenzhen’s GDP in real terms grew at an average annual rate of 22% and today stands at 2trn yuan. The city’s Nanshan district, home to about 125 listed firms with a combined market value of nearly $400bn." 
+
+What's more, Shenzhen invests into research. A lot. According to The Economist, Shenzhen spends over 4% of its GDP on R&D (double of mainland China; in Shenzhen's Nanshan district it's even 6%). And it shows. From that same Economist profile: "Benjamin Joffe, a partner at [hardware accelerator] Hax, reckons that Silicon Valley’s experience of hardware is 'six to seven years out of date'."
+
+/images/shenzhen_growth_wikipedia.png "Population growth in Shenzhen since 1979.  Blue shows the population with permanent registration, red population with non-permanent registration. Image: [Wikipedia](https://en.wikipedia.org/wiki/Shenzhen)."
+
+We met with Dr. Silvia Lindtner, an assistant professor at the University of Michigan in the School of Information. Dr. Lindtner has been researching the Shenzhen maker and manufacturing ecosystem for years, with a focus on the role of openness as well as societal implications. Over dinner, she helped us understand a little better how this aspect of the ecosystem has evolved as well as how the ecosystem came to be in the first place.
+
+Being announced by Deng Xiaoping, the Shenzhen SEZ was a top down initiative, decreed by government. Yet, that alone likely would not have been enough. The people of China saw an opportunity there and moved to Shenzhen in droves, participating and innovating bottom-up. This wasn't business as usual in China of the 1980s. The government strategically looked the other way, de facto creating a framework for permission-less innovation (within limits). The entrepreneurial spirit and ever-growing opportunities combined made for a fantastically potent mix, the results of which we see today.
+
+/images/shenzhen_dongguan_map.jpg "The factories tend to be a short ride north of Shenzhen proper. Image: Google Maps."
+
+While Shenzhen is the name associated with manufacturing, many of the actual factories are technically outside of Shenzhen's city borders, just north towards Dongguan. (Dongguan isn't included in the population estimate above.) Think of it as the industrial areas north of the city. Depending on exact locations and traffic, a ride of 45 minutes to 2 hours will get you there. Most design houses and liaisons you're likely required to meet are in Shenzhen proper or in the immediate environs.

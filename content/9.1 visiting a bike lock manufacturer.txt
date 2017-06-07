@@ -1,0 +1,75 @@
+# Visiting a bike lock manufacturer
+
+*Some first hand impressions from a product meeting with a manufacturer. Please note that details are deliberately vague and names unmentioned. The questions and answers are reflected as best as quick notes allow; some are paraphrased.*
+
+**Velocracy in a nutshell:** Velocracy is a decentralized, open-source bike sharing network built with fair pricing, privacy, and transparency in mind, and designed to stimulate the growth its bike network. As Marcel Schouwenaar describes the project in an interview: 
+
+> "Velocracy is a system of open-source city bikes expanding itself through use and rental. Every bike has a lock that opens when you check in with your smartphone. You use the bike and pay automatically with a bitcoin-like payment system as soon as you close the lock. The lock  saves the payments until the bicycle has earned enough money. They cash the money in order to add a new bike to the network. This way, the system spreads through the city like a virus."
+
+We figured that Shenzhen is the perfect place to explore this. Shenzhen is one of the hotspots of a war of bike sharing platforms that rages across most of China's first and second tier cities: National bike sharing services like Mobike, Ofo and BlueGogo compete aggressively for users among each other, but also against dozens of smaller, city-level operators. [The Guardian has some impressive statistics](https://www.theguardian.com/cities/2017/mar/22/bike-wars-dockless-china-millions-bicycles-hangzhou): "Hangzhou – an hour west of Shanghai by bullet train – is slightly larger than London by population, but its share system is five times the size."
+
+In other words, China is the perfect place for a Dutch design studio to work on a bike sharing platform. Velocracy aims to go beyond traditional bike sharing: This connected bike lock would be as open-source as possible, it would be part of a fully decentralized and—as far as possible—"ownerless" structure, and secured by blockchain technology. It would also be the perfect test case to gather first-hand experience with the Shenzhen hardware ecosystem.
+
+For Velocracy, we visit a manufacturer of smart bike locks that seems to have worked with domestic bike sharing companies. Our appointment is based on minimal context, yet we're welcomed with open arms.
+
+/images/velocracy_prototype.jpg "Harm holds an early prototype of Velocracy (Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34205575886/), CC by-nc-sa)"
+
+Besides the core Velocracy team (Harm, Anh, Jan-Geert), we bring along a few extra people for research and documentation purposes, bringing our headcount to a whopping 6-7 people. Our somewhat baffled contact handles our group gracefully. "You brought the whole company!" He laughs, friendly. We pile into a bare, smoky, neon-lit conference room. The office was brand new, the company had just moved in. 
+
+We learn that the founder—they refer to him by full name, or just as "the boss"—first started building bike lock solutions around 9 months ago, during the first share bike boom. 
+
+A recent report predicts around 30 million so-called smart bikes to be shipped by the end of the year. Smart bikes can be unlocked via a smartphone app—a requirement to allow for a bike sharing service. Currently the share bike market is roughly split 50/50 between the big players (Mobike & co) and smaller, often more local players.
+
+This company, our contact states, provides the whole solution around smart bike locks, which includes an Android app, cloud backend, locking system: The locks work via an industrial (M2M) data SIM card from one of the big telcos, and is based on an ARM chipset (MT61/62, with GPS, GPRS, BLE support). The chipset name is one of the first things our host mentions: Clearly for everyone working in bike locks this seems to be a well-known core building block. Our faces may have looked blank.
+
+As a matter of establishing credibility, we learn some statistics, and some general background about the bike sharing market: Of the 50K locks they ship, about 50% use their default cloud solution, the other 50% develop their own. The biggest bike sharing services are Mobike and BlueGoGo. This tracks with what we've seen in Shenzhen. Mobike's presence seems to tower over all the others, followed by the BlueGoGo bikes. Many smaller cities have their own, local bike sharing services. All in all, this makes for a very colorful cityscape full of rows upon rows of orange, yellow and blue bikes. If I heard right, he mentions there are about 2.000 "smaller cities" in China. Since they work with lots of smaller providers in this space, this clearly offers an exciting outlook for his company.
+
+Throughout the conversation, questions come up, and are quickly answered: 
+
+Q: Can it be modified as per our specs?
+A: "I guess."
+
+Q: Would this work abroad? Does it use the same bands and frequencies?
+A: "It depends. But the next generation lock is going to." They are working on a version for another country. This next generation will be ready in mid-May. This is four weeks from our visit. He makes it sounds as if this was a long way off.
+
+The casing is 3D modeled in-house, manufacturing is outsourced. The PCB comes from one of their shareholders. "The most important components are designed in-house."
+
+Harm explains Velocracy: Blockchain, decentralization, crypto, the whole spiel. How different an approach this is in terms of cloud integration and all. Our guy puts on his poker face and listens intently. He seems unfazed.
+
+Q: Will this be possible, you think?
+A: "Technically it's not very hard. It's a business thing." Meaning: Special requirements cost extra. "They're not ready-made. We need to start a new project to work with these requirements."
+
+Q: Is this PCB your own intellectual property?
+A: Yes, it's their own design, via their shareholder. The software comes from an industry partner.
+
+Harm takes the next leap: Open source. 
+Reaction: Some chipsets etc. are probably not available under open source license. It might be possible to switch to an open source platform. an "Arduino-like platform" is potentially possible. "Arduino-like" in this context seemed to refer to open source hardware, but I'm not 100% sure.
+In other words, open source seems to be a potential issue, at least with the current components.
+
+Samples would run about RMB260 (€35) per lock. The battery runs about 1 month without solar panels. In Europe this might be better as—for legal reasons, technical, or network traffic-related ones? I'm not sure—less frequent network pings are required and this saves lots of energy. In Europe, as far as I understood, a ping is required every 30 minutes or so, in China much, more more frequently.
+
+Q: What do you do to prevent tampering with the locks?
+A: The front requires a special screwdriver. The locks have alarm capability, but it's quite sensitive and currently disabled by default. Occasionally the system checks for GPS location.
+
+Q: Is a test with 20 bikes possible?
+A: Currently not, because of the different bands. This requires the next generation lock and software. Remeber, these are scheduled to be ready in a month. Here it's considered so slow it almost sounds like a deal breaker.
+
+Q: Which frequency bands are used in China v Europe? 
+A: They call an expert on the phone to get detailed answers.
+
+While our contact talks on the phone, the boss joined. He's super young, maybe 25. He demos the lock by unlocking it via his phone app: The metal bar snaps back without prior warning. Lying there on the conference table this is super loud; his colleague on the phone doesn't seem to mind and keeps on talking to their engineer.
+
+Q: The lock seems much lighter than expected. Why is this lock so much lighter than the competition?
+A: Aluminum casing, and the most lean design.
+
+Q: We want to build our own cloud backend for testing. What would we have to do? 
+A: API calls. Http, MQTT. The usual. 
+
+The source code as is can't be shared. Everything else can be. It's also possible to get custom firmware made for this project. The cloud part can also be deployed in Europe if the team choses to stick with the default cloud solution.
+
+Harm goes for the moment of truth: Can we take home a sample lock? (We all take a deep breath.)
+A: "Sure, sure." But: "What would an agreement look like?"
+We assume he means a business arrangement, financial deal or the like. We learn he's referring to contractual questions regarding doing business with a non-Chinese company. There's paperwork to take care of. We pledge to get learn what's necessary and report back.
+
+Harm: "Let's connect on Wechat."
+Contact: "I'm surprised! We can have a group!" Still, many Western companies show up without Wechat, which slows everything down. A few seconds of scanning later, we're in a group with our contact and the CEO.

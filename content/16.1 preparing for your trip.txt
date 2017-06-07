@@ -1,0 +1,79 @@
+# Preparing for your trip
+
+Are you planning to visit Shenzhen yourself? Here are some pointers that we hope will be helpful. Going to Shenzhen requires a bit of preparation. Some of it is the usual, some aspects might surprise you.
+
+This is not an extensive list, but it highlights some of the things that set Shenzhen apart from other destinations.
+
+## Get a visa for the Shenzhen Special Economic Zone
+
+Shenzhen is a special economic zone (SEZ), and it requires business visa. Exact rules differ from country to country, so make sure to check. 
+
+The visa applications requires some very detailed documentation. This includes an invitation letter from a local partner, travel bookings into and out of China and Shenzhen, as well as hotel reservations with the names of *all* guests in case you're sharing a room. (You might also want to mention if you prefer a non-smoking room.)
+
+That said, with a letter of invitation from a local partner and all paperwork ready we found the process to be pretty smooth and quick.
+
+## How to get to Shenzhen
+
+How to get to Shenzhen from different locales is well documented online. We recommend flying into Shenzhen directly, or to fly into Hong Kong and crossing the border from there. Busses, taxis, trains and ferries are all options depending on your personal preference. The bus, for example, takes about an hour. Lines at the double border crossing can take a while for international travelers because there is one paperwork check on the mainland Chinese side, one on the Hong Kong side. Allow for some buffer time. 
+
+/images/shenzhen_google_maps.png "Shenzhen is located just north of Hong Kong. Image: Google Maps."
+
+If you don't want to go through Hong Kong, Shenzhen has a regional airport as well that is well served from major Chinese cities. Flights go almost hourly from Shanghai, for example. Shenzhen is not an "exotic" vacation location but primarily a large business destination and serviced accordingly.
+
+## Security concerns
+
+Overall safety felt entirely unproblematic. However, we got warned repeatedly and credibly that electronic security is a real concern. Supposedly because of the extremely high-value potential targets, industrial espionage is huge in this region. We were warned to assume that all electronic devices and networks are under constant attack. 
+
+Security researchers recommend burner phones and burner laptops (i.e. one-time use, blank, non-essential hardware that you won't keep using back home without a prior factory reset). Up-to-date security software is a must. But even if you don't want to go that far, a VPN service to protect all incoming and outgoing data is essential—this holds true especially if you need to connect to Western internet services (Google, Apple, WhatsApp, Skype, etc.) which otherwise might be blocked. Obviously don't log onto any wifi without serious protection, ever.
+
+## Internet access
+
+Access to international internet services is a thorny issue in China. Even with solid preparation it sometimes works, sometimes it doesn't. Make sure to prepare your devices before your trip and to know you know what kind of risks you're willing to accept and what you need to prepare for.
+
+"What about internet access?" was a question we heard a lot when we got back from Shenzhen the last time. The Great Firewall is a strange thing indeed. It doesn’t work in absolutes. Rather, sites and services are blocked at times (but not always). Mostly it makes accessing parts of the “Western” internet slow and unreliably. In our experience, it changes daily. Our VPN—a service that encrypts our internet connection and in theory should allowed us to access websites around the globe—worked, to a degree. The connection to this VPN service often took a while to set up, and once running it could be slow or even cut out. Western Android phones or iPhones can sometimes behave a bit strangely if they fail to communicate with Western servers that are notionally blocked from China. But overall, we could access our emails, and make all the relevant Skype calls. Some days it felt like connecting to Western internet was like shooting for a moving target.
+This left us in a strange situation while traveling in China. As foreigners we could not fully access the Western web, yet due to language and knowledge barriers (we don’t know the apps, and wouldn’t be able to make any transactions without a Chinese bank account anyway) we couldn't really use the Chinese web either. At times we were fully connected, at times we were mostly offline. 
+Think of the internet like weather: There are good days and bad days, and either way there’s no point in working yourself up about it. 
+
+## Worth reading & watching
+
+[Bunnie Huang](https://twitter.com/bunniestudios)'s [Guide to Electronics in Shenzhen](https://www.adafruit.com/product/3189) proved a very helpful read for our planning. It's full of hands-on advice for both pre-travel planning and on-site tipps. Highly recommended.
+
+WIRED's excellent documentary on Shenzhen is also absolutely worth watching. (If you're reading this in PDF form, the embed below will not display, you can [watch the documentary here](https://www.youtube.com/watch?v=hp6F_ApUq-c).)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/hp6F_ApUq-c" frameborder="0" allowfullscreen></iframe>
+
+## Some practical advice
+
+**Carry cash.** Make sure to have cash on you at all times. Many internationally issued credit cards won't work outside high-end hotels and restaurants. It's a gamble. The maybe most useful electronic payment systems (Alipay, WeChat wallet) also don't work with most country's credit cards (although the list of partner countries seems to be growing slowly).
+
+**Install Wechat** & learn how to use it. Wechat is chat, business card, and QR code scanner all in one. Without it you won't get anywhere. Practice how to scan other people's QR code and to produce yours quickly. Without it, you'll be cut off. 
+
+**Maps are tricky.** It's easy to get lost, both geographically and in translation. It's easy to even get lost inside office buildings—signage varies—or on the way to meetings: Once we were picked up by a golf cart and shuttled from outside an office tower to a former golf resort for a meeting. As a rule of thumb, Yahoo Maps seemed less likely to be blocked than Google Maps; Apple Maps and My Maps (former Nokia) worked well during our visits. Your milage might vary.
+
+**Get a translator-fixer.** If you don't know your way around and don't speak the language, you'll be stuck. A local translator and fixer is priceless. You'll be relying on their translation skills not just for language but also culture and etiquette, and their local network will help you get things done that you would as a foreigner never be able to do.
+Make sure to pre-arrange one. There's a good chance your local partner can help you with the arrangements. Maybe more importantly, a translator can be extremely helpful during restaurant visits and for arranging transport.
+
+**Pick up a pocket wifi.** In Shenzhen, sourcing a wifi hotspot is a breeze. You're right at the source, remember? In some airports like Shanghai, hotspots can even be bought inside the baggage claim area. Getting or bringing your own wifi hotspot is highly recommended. Make sure to still use your VPN. For buying a hotspot or a data SIM in China, a passport is required.
+
+**Encrypt your data connections using a VPN service.** Inquire about what works as the services and servers get blocked by the government occasionally. Last time we were there, Express VPN seemed to be overall reliable, as did Private Internet Access. Without a VPN you're not only totally open to surveillance of all sorts, many services simply won't work at all. All Google services, for example, are blocked. This leaves non-local Android phones pretty much crippled.
+
+**Get more data.** Unless you're on some unlimited international data plan, sometimes the data plan in your pocket wifi is up. Too quickly? Hard to tell. If a new SIM card is in order, local newspaper/SIM card vendors can hook you up. A passport is required. Sometimes if you don't have one it might turn out not to be a major issue: Local business people don't like to let bureaucracy get in the way of sales.
+
+**Airport security works slightly differently in China.** Amounts of liquids seem to score a lot lower on the list of priorities than in most Western countries. Instead, a big focus here is on explosives as well as lithium-ion battery packs. My luggage got scanned twice because it looked like there might have been a power bank in there. Also, it seemed that most Chinese passengers knew the exact battery capacities of their devices by heart. There are a lot of batteries in Shenzhen.
+
+**At Chinese airports, boarding can be uncannily fast.** The boarding process flying from Shanghai to Shenzhen might be the fastest I've ever encountered. After the beginning of boarding was announced, it took maybe 3 minutes to get 200 passengers on the shuttle bus out to the tarmac. Most, but but not all announcements are repeated in English, so pay close attention and don't stray too far from the boarding area.
+
+**Expect the unexpected.** In Shenzhen you might find yourself in unexpected situation. For example, consider these situations we encountered on a recent trip to Shenzhen, all within just a few days: 
+
+/images/shenzhen_cart_glasses_bridge_peterbihr.jpg 
+"One day we found ourselves first headed to a meeting in a black-and-gold golf cart. One night over dinner we discovered we were inexplicably drinking out of butt-shaped glasses. At a showroom we crashed through a wooden suspension bridge. Images ([1](https://www.flickr.com/photos/thewavingcat/30917546466/), [2](https://www.flickr.com/photos/thewavingcat/30753158731), [3](https://www.flickr.com/photos/thewavingcat/22767786518/)): Peter Bihr (CC by-nc-sa)"
+
+All these things can happen. They're usually not dangerous. Keep your calm and your humor and you'll have a fantastic time. 
+
+**Keep an open mind.** The right mindset to get most out of your time in Shenzhen is key, as per the recommendation from two people who know this ecosystem extremely well:
+
+Noel Joyce, design director of hardware accelerator HAX recommends leaving assumptions behind: "The best thing you can do is to come here with an open mind. Come here with the most open mind you can and learn as much as possible."
+
+Researcher Prof. Silvia Lindtner expands: "A lot of startups come to Shenzhen and they have this idea 'I know what I want to design and I'm just going to tell the manufacturer how to do it.' These are typically the startups that get delayed and can't deliver their Kickstarter project. Other startups come here and say 'Maybe I could learn something from the people here. These are the entrepreneurs who recognize the local expertise, who said 'There's expertise here in manufacturing. It's not all low quality copycat production.' There's a unique opportunity of partnership to say 'how can we learn from each other?' and build on this existing infrastructure and learn from what design can mean and how design can work in different ways."
+
+We're sure your trip to Shenzhen won't be boring. We hope you'll enjoy it as much as we did. 

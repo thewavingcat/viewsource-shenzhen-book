@@ -1,0 +1,118 @@
+**# Why this book?
+
+The internet touches ever-more parts of our lives. What started with the digitization of information—newspapers, music, academic research—now reaches into the physical world as well. Connectivity and microprocessors get cheaper and more powerful every day. Meet the Internet of Things, *IoT* for short.
+
+IoT allows our physical environments to capture, process, and act on data. This has far-reaching consequences—we'd argue more far-reaching that most of us can imagine today. On one side it allows breakthroughs like self-improving medical devices, autonomous cars, and interactive toys. On the other it poses challenges around security, privacy, data ownership: The 21st century battleground around power and control.
+
+These are large, complex questions that we have to solve as a society, and the stakes are high. There are huge opportunities to seize and equally big risks to mitigate.
+
+We believe that it's possible to shape the development of the Internet of Things towards societal benefit.
+
+View Source is the initiative of an alliance of organizations that promote the creation of a responsible Internet of Things: 
+
+- [The Incredible Machine](http://the-incredible-machine.com/) is a Rotterdam-based design consultancy for products and services in a connected world.
+- [ThingsCon](http://thingscon.com) is a global community of practitioners with the mission to foster the creation of a responsible & human-centric IoT.
+- [Mozilla Foundation's Open IoT Studio](https://twitter.com/openiotstudio) aims to embed internet stewardship in the making of meaningful, connected things.
+
+Along for part of the ride were two other value-aligned organizations:
+
+- [Just Things Foundation](http://justthings.org/) aims to increase the awareness about ethical dilemmas in the development of internet connected products and services.
+- [ThingsCon Amsterdam](https://www.thingscon.nl/) organizes the largest ThingsCon event globally, and also organized a guided delegation of European independent IoT practitioners to Shenzhen which coincided with our second Shenzhen trip.
+
+What unites us in our efforts is great optimism about the Internet of Things (IoT), but also a deep concern about the implications of this technology being embedded in anything ranging from our household appliances to our cities. Together we decided to go where most of the Internet of Things is built—at least the physical parts, the devices and sensors and microprocessors: Shenzhen, China. The electronics manufacturing capital of the world.
+
+We believe that there's much to learn, and that by going to the source—the origin, where our connected products are built—we can develop an understanding of how to help shape the development of a responsible IoT. Furthermore, we hope to provide some pointers and guidelines for how to best approach and interact with this ecosystem. After all, it can be intimidating and overwhelming at first. 
+
+When we planned this series of trips we understood our mission two-fold:
+
+First, we wanted to understand the ecosystem better to advance our mission of fostering the creation of a responsible Internet of Things straight from the source. We share our experiences and insights with the larger world because we hope they might be helpful for others, too.
+
+Second, we aimed to build bridges between especially the European community of independent IoT practitioners on one side and the Shenzhen ecosystem on the other. There are many mutual benefits of an exchange of ideas and knowledge: Not everybody will find Shenzhen the right place to manufacture their hardware but it's important to know all the options, the pros & cons, to make an informed decision. 
+
+We hope to expand this research to other regions in the near future. We thank especially the Creative Industries Fund for their support of two research trips to Shenzhen.
+
+Here's our hypothesis again, our reason for doing this research and going to Shenzhen, as a nifty little graphic:
+
+/images/triangle.png
+
+1. **Responsible IoT is important.** 
+Because the Internet of Things (IoT) reaches deeper and deeper into our lives it is essential to have responsible and human-centric practices. 
+2. **European independents have something to contribute.**  
+For a number of historical, economic and political reasons European independent makers, designers, and entrepreneurs in the IoT space have a unique contribution to make.
+3. **Shenzhen's hardware ecosystem can provide leverage.**  
+Shenzhen's unique hardware ecosystem can provide leverage for this European approach and hence help create more responsible IoT practices at scale.
+
+## Why European independents have a unique take on IoT
+
+I am convinced Europe, and especially European independents and small companies, have a unique perspective at the Internet of Things and hence have a special contribution to make. At the risk of over-simplifying, allow me to paint in broad strokes.
+
+We'll elaborate on these points in the chapter *A European perspective*.
+
+- **Historical reasons.** For historical reasons, Europe is painfully aware of the potential damage that can result from abuse of data.
+- **A strong privacy regime.** The EU has a strict privacy regime and globally one of the strongest legal protections of the use and exploitation of data. 
+- **Less access to venture capital.** While VC funding has been picking up in European startup hubs like London, Amsterdam and Berlin, access to venture capital funding is nowhere near the levels of Silicon Valley. 
+
+In combination, this paints a different picture than what you'd find particularly in the United States, the main Western hot spot for IoT development. 
+
+## Technology is political
+
+People tend to think of technology as a something non-moral: Objective and rational, like a hammer or a roof tile. It is the use of technology that it could be considered in terms of good or evil. But when you take a close look at products that embed technology, we can see that any product is the result of a series of decisions, both practical and moral. Technology is highly political.
+
+When the Internet of Things is interweaving the physical world with the logic of software, algorithms and business models, these design decisions become very complex. Typical moral dilemmas in the field of IoT are concerning the collection and use of personal data. It is up to a company to decide to what extent they build their business model around exploiting or even selling data as a revenue stream. 
+
+In the context of Western economical discourse, data is considered a valuable resource generated and used in IoT. From startups to large enterprises, large parts of the Western service economy revolve around online services and software: In other words: Data-driven services with business models based on leveraging access to data. If anything, the Internet of Things accelerated this trend. Internet-connected physical products became a new access point or touch point to a service that keeps generating value.
+
+In the Chinese context, especially in Shenzhen, the economics of IoT have been unfolding entirely differently. 
+
+## Why is Shenzhen so relevant to understand?
+
+Just like Europe, China's economy has a large service sector. But unlike most companies in the United States and Europe, Shenzhen's focus is on manufacturing of hardware. The revenue comes from shipping physical products, not services. And Shenzhen doesn't just build their own IoT products but manufactures the devices for the whole world. If you look around at the electronic devices in your life, chances are they were made in Shenzhen. (Numbers vary and are hard to verify, but some [estimates assume](http://www.inc.com/will-yakowicz/shenzhen-city-of-electronics.html) that 90% of global electronics worldwide are made here.)
+
+Historically, the image of Shenzhen—and China—was that it's the place where cheap electronics are made, often under horrible conditions. This image might need updating as Shenzhen has been changing dramatically over the last decade. Increasingly the services offered in Shenzhen move upstream as it were, and include design, quality assurance, strategic consultancy. The good produced here include the full range, from dime-a-dozen memory sticks to premium smart phones, from solar-powered lights for the African markets to high-end drones for wealthy gadget fiends.
+
+The hardware ecosystem in Shenzhen is globally unique—especially for connected products and IoT. Hence it's no wonder that hardware startup accelerators from all over the world have offices in Shenzhen, successfully crowdfunded IoT entrepreneurs produce in Shenzhen, and small design studios go to Shenzhen to manufacture small or medium-sized runs of their self-developed IoT products. 
+
+> "A week in Shenzhen is like a month anywhere else."  
+— Noel Joyce, HAX
+
+Shenzhen's mix of engineering and design skills, deep experience with manufacturing, and the open knowledge sharing practices between local Shenzhen hardware talent means an unparalleled access to the skills and workforce needed to get a physical product from idea to factory. 
+
+But of course all that glitters is not gold: Shenzhen has a dark side, too. It also produces counterfeit products at scale, exports cheap electronic trash, and creates e-waste in staggering amounts.
+
+In a sense, Shenzhen has become the Silicon Valley of hardware. To make an informed decision if it's the right context for your upcoming hardware or IoT project, it's important to understand how Shenzhen ticks. We went to Shenzhen twice—in November 2016 and April 2017—and experienced this ecosystem first hand. 
+
+Here's what we learned.
+
+## ThingsCon & promoting a responsible IoT in Shenzhen
+
+During a recent trip to Shanghai we learned that there is significant interest in China in responsible IoT and design. The first ThingsCon Salon Shanghai, organized by [Simone Rebaudengo](http://twitter.com/fishandchipsing) (co-founder of [automato](automato.farm)), attracted 50 people right away. They were a solid mix of locals and expats, designers and entrepreneurs.
+
+In April 2017 we held our second ThingsCon event in China, this one in Shenzhen and hosted by our local partner, the Shenzhen Open Innovation Lab ([SZOIL](http://szoil.org)). (More about this in the chapter "ThingsCon Shenzhen".)
+
+We're convinced that the Shenzhen hardware ecosystem can provide leverage to advance our mission of promoting a responsible Internet of Things. And so far, the interest we have encountered across countless conversations confirms this.
+
+## About this document
+
+This document was written as part of a larger research effort that included, among other things, two trips to Shenzhen, a video documentary, and lots of workshops, meetings, and events over a period of about a year. It's part of the documentation of these efforts. Links to the other parts are interspersed throughout this document. 
+
+This research was a collaborative effort undertaken with the Dutch design consultancy [The Incredible Machine](http://www.the-incredible-machine.com/), and our delegations to China included many Dutch designers, developers, entrepreneurs and innovators: One of the over-arching goals of this collaboration was to build bridges between Shenzhen and the Netherlands specifically—and Europe more generally—in order to learn from one another and identify business opportunities and future collaborations.
+
+We thank Creative Industries Fund NL for their support.
+
+/images/creativeindustriesfund_logo.jpg "We thank the Dutch Creative Industries Fund for their support."
+
+## About the author
+
+Peter Bihr is the founder and Managing Director of [The Waving Cat GmbH](http://thewavingcat.com) where he explores impact and opportunities of emerging technologies—especially Internet of Things (#iot). As an innovation & strategy advisor, he helps organizations excel in an environment shaped by digitization, connectedness and rapid change.
+
+/images/peterbihr.jpg "Photo by Nina Zimmermann (ninazimmermann.com)"
+
+Peter is chairman of the board of the not-for-profit organization [ThingsCon](http://thingscon.com) e.V. which fosters the creation of a human-centric & responsible Internet of Things. He has co-founded and chaired many acclaimed emerging technology conferences including ThingsCon, UIKonf and Cognitive Cities Conference, and served as co-chair of Interaction16.
+
+He has provided research and policy recommendations to governments and global tech companies, supported automotive clients with R&D strategy, and has helped organizations embrace innovation opportunities as an external radar and sparring partner.
+
+His projects, thoughts and other antics have been featured in Forbes, New York Times, The Guardian, ZDF, ZEIT and many others. He was named a Top 100 Influencer in IoT in 2016 (Postscapes). He blogs at [thewavingcat.com](http://thewavingcat.com/blog).
+
+*Please note: While I happen to be the one to write this text as my contribution to documenting our group's experiences, I cannot speak for the group, and don't want to put words in anyone's mouth. In fact, I use the "we" loosely; depending on context it refers to either one of the two delegations, our lose alliance for responsible IoT, or is a collective "we". I hope that it's clear in the context. Needless to say, all factual errors in this text are mine, and mine alone. If you discover any errors, please let me know.*
+
+

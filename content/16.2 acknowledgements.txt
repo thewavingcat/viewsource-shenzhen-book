@@ -1,0 +1,17 @@
+# Acknowledgements
+
+This book would not have been possible without the kind help and support by many friends and partners. A big thank you to...
+
+...David Li and Vicky Xie of the Shenzhen Open Innovation Lab (SZOIL) for kindly welcoming our delegation (twice!), sharing advice and contacts, and hosting the first ThingsCon event in Shenzhen.
+
+...the indefatigable team of The Incredible Machine: Marcel Schouwenaar, Harm van Beek, Quang Anh Bui, Jan-Geert Munneke, and Luke Noothout.
+
+...our translators and guides Chris & Roy for helping us navigate Shenzhen (and its restaurants)—both in terms of language and culture—with kindness and incredible patience.
+
+...Silvia Lindtner for sharing her insights on Shenzhen maker culture and its role in society. 
+
+...the ThingsCon Amsterdam team around Monique van Dusseldorp, Iskander Smit, and Marcel Schouwenaar for putting together a whole delegation as part of our second visit to Shenzhen.
+
+...the many, many partners and organizations who kindly hosted our visits for their time and hospitality including Artop, SIDA, Tencent, World Maker Group, and all the many others.
+
+...the Dutch government, namely the Creative Industries Fund NL, for supporting our research trips and this publication.

@@ -1,0 +1,63 @@
+# This is where the magic happens: Huaqiangbei electronics market
+
+Without exception, first-time visitors to Shenzhen have one item on their must-see list: Huaqianbei market, the dense labyrinth of electronics suppliers. 
+
+/images/shenzhen_market_street_peterbihr.jpg "The main market street was under construction when we visited in November 2016. One side of the street focused more on traditional retail like fashion, the other on electronics. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30644839930) (CC by-nc-sa)"
+
+Huaqiangbei market is overwhelming, and hard to navigate due to its sheer size. It isn’t just big, though. It’s also incredibly dense. It's a large downtown area—each block with several buildings of 5-25 floors—you’ll find floors upon floors of sometimes tiny, crammed market stalls selling anything from full computers or robots down to individual buttons, displays, or even just cables.
+
+/images/shenzhen_market_pedestrian_peterbihr.jpg "When we visited Huaqiangbei again in spring 2017—only half a year after our first trip— we hardly recognized the main street. Gone was the construction site and the broad street, and in its place was a friendly, ultra-clean pedestrian area that looked like straight out of an architectural rendering. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34063608821) (CC by-nc-sa)"
+
+In their essay "[Silicon Markets: Smart Hardware from the Streets](https://www.digitalasiahub.org/thegoodlife/)", Anna Greenspan, Silvia Lindtner and David Li describe the market and its role like this:
+
+"Central to this new urban imaginary are the electronic markets of Huaqiangbei, a 15-by-15 city block area, where an enormous array of electronic components and devices are sold, recycled, and assembled. Though the markets are housed in a cluster of multi-story malls, they come from - and belong to - the streets. The Huaqiangbei markets are part of an open source ecosystem of manufacturing (known as shanzhai) that has emerged in China’s Pearl River Delta in the shadows of large contract manufacturing. This open innovation model of technology production has evolved over the last 30 years, feeding off of low barriers of entry, an outlaw spirit, and a corresponding high-speed mode of copy-and-mutate design and production. In the markets, versions of the products on display at the Shenzhen industrial design fair are available at a fraction of the price. Smart watches, wearable bands, and personal drones all can be found for a few hundred renminbi."
+
+/images/shenzhen_market_map_gmaps.png "This is roughly the market area. Image: Google maps"
+
+We learn quickly that in Shenzhen, making a product isn’t necessarily about technology. Technology is a commodity. The only thing that counts is, what do you want to make? As David Li summarizes: “Everything here [in the market] is a component for your creation!”
+
+/images/shenzhen_market_peterbihr.jpg "Huaqiangbei market can be quite overwhelming. This photo shows just one of dozens of floors. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/22756728038/) (CC by-nc-sa)"
+
+This is where you find the building blocks for your products (from individual LEDs or buttons to ready-to-use screens or cables), the suppliers, maybe even the partners to make it all happen.
+
+"Quaerendo invenietis",J.S. Bach famously wrote in the margins of his *Musical Offering*: *by seeking, you will discover*. Nowhere is this more true than here. No matter what you're looking for, at Huaqiangbei you'll find it.
+
+/images/shenzhen_market_buttons_peterbihr.jpg "Looking for buttons? Here's a whole factory's worth. These are just a few hundred samples to test and tinker with, of course. Once you found the one you like, the negotiations can begin. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30633695390) (CC by-nc-sa)"
+
+Huaqiangbei looks like a bazaar. However, looks can be deceiving. In reality, while some stalls are resellers of components, others are a window into a factory, a whole supply chain. It's acceptable to buy a small sample, but really the order sizes here range in the thousands, tens of thousands, or millions.
+
+Most buildings and most floors are highly specialized. For example, there’s a whole building for security. When you enter you’ll find thousands of cameras staring at you.
+
+We're told that these days a market stall is about USD 1K per month of rent per sqm in these markets. The stalls generate something to the tune of 3 million RMB (USD 430K) revenue per sqm per year. This is serious business.
+
+---
+
+*Tip: When buying a sample, always take a business card. Without it it's nearly impossible to find the stall again.*
+
+---
+
+/images/shenzhen_market_fulfillment_peterbihr.jpg "Main business hours are from noon to maybe 4 in the afternoon, then the whole city switches to fulfillment mode. Then, all back alleys are visually dominated by cardboard boxes and ubiquitous yellow packing tape. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33422183474) (CC by-nc-sa)"
+
+Taken together, Huaqiangbei provides an excellent snapshot of global consumer electronics trends: If it's here today it'll be on shelves around the world in a few months.
+
+The market is for components, be they cables or complex electronics. This isn’t a consumer market. Unless you really know what you’re doing, what you’re looking for, and how to assess quality, you need an interface. 
+
+/images/shenzhen_market_circuits_peterbihr.jpg "Vendors can help you get exactly what you need. In fact, often they don't sell off what's in stock but just take orders to manufacture on spec. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/25299650619) (CC by-nc-sa)"
+
+Quality management is up to the buyer, not the manufacturer or seller. Again, this isn't a shopping mall for consumers, but an expo for professional buyers.
+
+---
+
+*Tip: Please note that filming at the market requires a special permit. On one visit both of our teams had cameras, and both got approached by security within seconds of entering the building. Partially this seems to be to avoid footage of counterfeit goods: The government wants to clean up the market and its image. Several people referenced a British TV crew that came in under false pretense of shooting positive coverage and using the material for an exposé of fake goods. For the time being security seems a little on edge. It's possible to arrange permits to film in the market, though, through the building management. Your fixer/translator should be able to help arrange them on short notice.*
+
+---
+
+To give you an example, consider the hover board. In the West they frequently made the headlines because the batteries would go up in flames. According to David Li the reason is simple: There were two basic models of hover boards: one "premium" for the Western markets and a slightly cheaper version for more price-sensitive markets, especially in South-East Asia. For these lower-priced models, the hover boards were made without the chip that ensures batteries won't overload: Scrapping that chip would reduce the bill of materials by 50 US-cents or so, a not-insignificant reduction of the final retail price. In these countries electricity is more expensive and electronics tend to be unplugged whenever they don't need charging—unlike in Europe and North America, where things frequently stay plugged in. It was bad value judgement of entrepreneurs who started importing the lower-priced models (the ones without the overload-protection) to Europe and the US. When plugged in over time and beyond full charge, they would lack the protection against going up in flames—so they did. Again, it's the buyer's responsibility to state exactly what they are looking for, not the seller's.
+
+<iframe src="https://player.vimeo.com/video/192857912" width="800" height="586" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/192857912">Shopping for 2016 ThingsCon lanyards in Shenzhen</a> from <a href="https://vimeo.com/thingsconams">ThingsConAMS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+*This video gives you an impression of what it's like to shop at Huaqiangbei market.*
+
+**As fun as it is to scout for parts at Huaqiangbei market, the better way for most Western entrepreneurs to build products in Shenzhen is to go through a design house who can guide through the whole process, from prototype through design and manufacturing to launch.**
+
+/images/shenzhen_market_night_peterbihr.jpg "Huaqiangbei at night as seen from Huaqiang Plaza Hotel. Inside the market, shop keepers are busy restocking their inventory after a long day of tranding. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34057596782) (CC by-nc-sa)"

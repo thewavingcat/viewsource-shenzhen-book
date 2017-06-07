@@ -1,0 +1,37 @@
+# Ethical considerations when designing data-driven products to manufacture in Shenzhen
+
+Building connected products and services comes with its own set of particular challenges. This holds especially true when working with sensitive data—like in the case of many connected products—and when designing for manufacture in China.
+
+The questions and challenges around data layer and data practices—especially privacy— are highly technical, complex, and defined by these long-term, data-driven implications. These implications are significant but often hard to understand, and even harder to discuss. Especially privacy is complex, contextual, cultural, fuzzy. It is hard to get right, which is essential in the context of IoT. 
+
+Getting it right starts at the source, with design and manufacturing.
+
+There are ethical and business implications around manufacturing and labor with which I have very limited experience and about which cannot talk knowledgeably, so I won't. During our visits we mostly saw very well-run operations; we are in no position to extrapolate from these selected visits.
+
+**When it comes to embedding values in products and manufacturing as well as design processes, the Shenzhen infrastructure seemed neither moral nor immoral. Instead, it's best described as indifferent: What happens and how only depends on the entrepreneurs who orders the goods. What do they want, what do they ask for, what are they willing to pay for?**
+
+It often seems that Western entrepreneurs complaining about Chinese manufacturing standards might not have done their own homework in terms of planning, establishing ground rules, and quality assurance.
+
+There is, however, a stark systemic contrast in terms of business incentives to the West. Where especially in the Silicon Valley model value is assumed to reside in data, Shenzhen sees value primarily in hardware. Silicon Valley's business models (and hence funding structures) aim to generate and extract value from data of all sorts. Shenzhen makes money on selling physical products, preferably in huge volumes. 
+This has significant implications. For one, business incentives in Shenzhen aren't stacked towards capturing and monetizing user data but at making hardware and selling it (with as high a margin as possible).
+
+Inherently this means a lot less interest in capturing any data whatsoever: In many conversations user data was considered a liability rather than an asset. To some degree, this is a boon to privacy and data protection. It also means that Shenzhen companies have less of a history (and hence less deep experience) designing services as compared to stand-alone products. Something to keep in mind and adjust expectations accordingly.
+
+That said, there are tremendously successful, large digital services in China that build heavily on data mining. Wechat comes to mind, Tencent's ubiquitous chat-plus-payment-plus-everything-else app.
+
+## What about security?
+
+Security and the internet of things are not, historically, on good footing. Most of the time when IoT makes the headlines it is because of a security breach. 
+
+Just within a half-year before writing this, significant breaches included:
+- Mirai botnet, a massive DDoS attack that used unsecured IoT devices (mostly security cameras) as an attack vector.
+- Connected doll Cayla that could record and play voice. Alas, it was also easily hackable through an unsecured Bluetooth connection to spy on, or spook, kids.
+- More than 2.000 computers running San Franciscos's public transport system MUNI were hacked and held ransom for 100 bitcoin. 
+
+These are just three high-profile examples. There were many, many more.
+
+For IoT, especially price-sensitive consumer IoT products, security is an externalized cost: consumers aren't (yet) willing to pay premium for security, so sellers don't secure these devices. Consumers and the larger network bear the costs. Every time a high-profile security breach happens, the whole field of IoT suffers as consumer trust erodes.
+
+Needless to say, this has to change. And likely, this change requires a joint effort by all parties involved, from consumers to product designers to policy makers.
+
+For those readers who are involved in making connected products, keep this in mind. Security cannot be "added later". Security has to be an integral part of the design process from day one, and it has to be part of all practices and processes.

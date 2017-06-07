@@ -1,0 +1,65 @@
+# A European perspective: What can Europe contribute?
+
+## Why European independent IoT practitioners have a unique take on IoT
+
+At the beginning of this document we outlined our hypothesis for doing this research into Shenzhen and how it might relate to European independent IoT practitioners in particular:
+
+/images/triangle.png
+
+1. **Responsible IoT is important.** 
+Because the Internet of Things (IoT) reaches deeper and deeper into our lives it is essential to have responsible and human-centric practices. 
+2. **European independents have something to contribute.**  
+For a number of historical, economic and political reasons European independent makers, designers, and entrepreneurs in the IoT space have a unique contribution to make.
+3. **Shenzhen's hardware ecosystem can provide leverage.**  
+Shenzhen's unique hardware ecosystem can provide leverage for this European approach and hence help create more responsible IoT practices at scale.
+
+Europe, and especially European independent IoT practitioners and entrepreneurs, have a unique perspective at the Internet of Things and hence have a special contribution to make. At the risk of over-simplifying, allow me to paint in broad strokes.
+
+## Historical reasons
+
+For historical reasons, Europe is painfully aware of the potential damage that can result from abuse of data. To this day, this historic legacy manifests itself in the European Union's privacy regime. This awareness is probably nowhere as pronounced as in Germany where within a century there was not one but two surveillance states.
+
+More than once I've heard from internal meetings at global tech companies where discussions about privacy and data protection culminated in the question: "Will this work for Germany?" If your privacy measures work for Germany, chances are they'll work anywhere.
+
+## A strong privacy regime
+
+The EU has a strict privacy regime and globally one of the strongest legal protections of the use and exploitation of data. Sometimes criticized as stifling innovation, sometimes lauded as a safe haven for citizens' data, this data protection and privacy regime is driven most strongly by consumer rights considerations, ie. a protection of user data against commercial exploitation.
+
+In broad strokes, this is in contrast to the US approach which considers these aspects through a lens of protection against criminal and governmental abuse but encourages commercial exploitation.
+
+> There is no global consensus around how to govern or regulate global data flows successfully
+
+As recent discussions between US and EU around data protection have shown, there is no global consensus around how to govern or regulate—let alone implement—global data flows successfully.
+ 
+Some global companies have started offering hosting of client data exclusively in certain jurisdictions. Microsoft, for example, offers data hosting in Ireland or Germany for European enterprise clients. Others host in data centers around the world and let their legal departments sort out the mess. There's even some discussion about attaching a "nationality" to data as meta data: *This piece of data belongs to an entity within Italian jurisdiction and Italian law applies.* 
+
+This is tricky terrain with any kind of data, especially personally identifiable information. It will be just as relevant to sort out for IoT-related data. Some of the best legal minds of the world are working on it, but as far as I can tell no final solutions are within reach. In the meantime, companies large and small have to work in and around this legal uncertainty.
+
+Obviously we recommend a conservative approach: Don't raise, store, or process any data that's not essential. Capture as little data as you absolutely need in order for your product or service to perform. And prefer decentralized, local, and self hosted approaches over centralized global ones. But in the end, these are questions that will require plenty of trade-offs.
+
+> We recommend embracing Europe's tougher data protection laws as a customer-friendly selling point
+
+If you're hosting and operating within the EU, tougher privacy and data protection laws apply. While they might be harder to navigate and comply with, we recommend embracing them as a customer-friendly selling point rather than a barrier.
+
+## Less access to venture capital
+
+While VC funding has been picking up in European startup hubs like London, Amsterdam and Berlin, access to venture capital funding is nowhere near the levels of Silicon Valley. Europe has solid public funding structures in place, but they tend to be small and/or not easily accessible for smaller organizations. Overall, this shifts the economic incentives away from the grow-quick-and-sell logic of VC funding and more towards sustainable business models.
+
+While there might be good reasons to prefer in other regions of the world (labor conditions most likely being among the top-named concerns), but the one thing that seems unlikely is that Chinese manufacturers have a strong interest in capturing user data. In fact in many conversations we heard that user data is frequently considered a liability rather than an asset—a stark contrast to the US.
+
+Now partially this is because if you mainly produce hardware, then that data is simply outside your business model. Partially it's because Chinese service design hasn't reached the level of maturity as an industry as in the US, even though it's catching up. A lot of the times Chinese manufacturers simply are upstream of the types of business models that are based primarily on data.
+
+That said, there are potentially opportunities here for European entrepreneurs. By partnering up with a Chinese design house that helps oversee the hardware side of things, the European partners could focus on the service design part. Having a Chinese stakeholder—or even shareholder—might provide access to funding and manufacturing that would otherwise require venture capital, and building the service part of the offering within the protection of European data regulations might—in the right context—offer the best of both worlds.
+
+## In conclusion: Context matters
+
+In combination, these factors paint a different picture than what you'd find particularly in the United States, the main Western hot spot for IoT development. 
+
+Note that most Asian markets—especially China, South Korea and Japan work very differently yet again—often with an even stronger internal focus—and are hence not part of this analysis.
+
+Context matters. What you plan to do and how depends on many factors.
+
+> There is an opportunity in partnerships between European and Chinese entrepreneurs for leveraging the Shenzhen hardware ecosystem and European data protection into products and services that benefit customers
+
+For some entrepreneurs, local manufacturing is key. Others prefer to focus exclusively on the service design. We believe that there is an opportunity in partnerships between European and Chinese entrepreneurs for leveraging the Shenzhen hardware ecosystem and European data protection into products and services that benefit customers.
+

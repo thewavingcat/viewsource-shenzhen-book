@@ -1,0 +1,9 @@
+# Building a movement for responsible IoT
+
+It seems essential to nurture a broad alliance—a movement, really—that advocates responsible IoT in all its many facets.
+
+We see our research trips to Shenzhen, this publication, the broad range of activities under the ThingsCon and Just Things umbrellas, all as contributing to this larger vision of a resonsible, ethical, human-centered Internet of Things. An IoT that works for everyone, long term and sustainably, and that improves society rather by creating (as opposed to extracting) value.
+
+We jokingly referred to our merry band on these trips as the #RIoT Alliance—the Responsible Internet of Things Alliance. It's not a fixed group, or even an official one. We believe that any organization should be free to choose to self-identify as "values-aligned" and support this overall agenda for a responsible IoT. 
+
+We're all in this together.

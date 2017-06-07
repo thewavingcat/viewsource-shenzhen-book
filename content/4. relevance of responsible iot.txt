@@ -1,0 +1,59 @@
+# Why is a responsible Internet of Things so important?
+
+Connectivity increasingly permeates the physical world. The world quite literally comes online one sensor, light bulb, car, or home at a time. This will undoubtedly bring with it sweeping changes. 
+
+> We're in the early days of a massive transition. We can influence the outcome by making good, informed decisions today, and every step along the way.
+
+We're in the early days of a massive transition. How these changes will look we can only make informed guesses about. However, we can influence the outcome by making good, informed decisions today, and every step along the way.
+
+## IoT is hard to understand & discuss
+
+The Internet of Things is a massive connected systems—even a network of connected systems. This makes it inherently hard to understand, and even define. IoT is at the same time complex and highly technical. We also don't have a good intuitive understanding of the long-term impact of data and data-driven systems.
+
+> We don't have a good intuitive understanding of the long-term impact of data
+
+What's more, we haven't evolved the language to discuss IoT, its many facets, its implications. IoT is a field that is at the same time interdisciplinary, broad, and deep. It has touch points with various aspects of technology and connectivity, with big data and privacy, with insurances and legal frameworks, with business models and innovation, with governance and power dynamics. In short, we haven't quite evolved shared language and metaphors to aptly discuss IoT. 
+
+And frequently, thanks to a lack of transparency, feature changes through software updates, and other back-end changes users might or might not be aware of, we cannot even reliably answer the most basic of questions: "Does this device do what I think it does?"
+
+## Manifestations of IoT
+
+Yet the Internet of Things' impact is potentially huge. Connected products & services increasingly touch all areas of our lives: Connected cars, smart grids and smart meters, home automation and wearable fitness trackers are just a few areas we might encounter every day.
+
+/images/iot_arenas_peterbihr.jpg "Arenas of the Internet of Things. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/25356051069/) (CC by)"
+
+As IoT becomes more pervasive, it might help to look at two manifestations that bring to the forefront two key challenges inherent in IoT: Connected homes (privacy) and smart cities (opt-out).
+
+**Connected homes fundamentally challenge how we think about privacy.** Traditionally, at least in the West, the home would be considered a private space. What happened at home would stay at home. Smart homes have been changing that drastically: For better or worse, with connected microphones in our phones, computers, TVs, and smart home hubs we cannot reliably consider the home to be "private"—at least not in a binary sense of "private" vs "not private". We now have to think in a spectrum of "more private" vs "less private".
+
+For a more extensive exploration of the implications of living in connected homes, see the ebook [Understanding the Connected Home](https://theconnectedhome.org) (Bihr, Thorne 2016).
+
+**Smart cities introduce sensing and data processing to public space, and citizens cannot opt out.** Cities are an interesting space to deploy IoT. There are good arguments for IoT in public space, like increasing energy efficiency, or reducing traffic. However, many if not most large-scale smart city projects are designed and managed by companies that traditionally have worked to increase efficiency over everything else: They tend to be global network technology providers, supply chain or process optimizers, technology companies. In other words, they otherwise tend to operate in areas where efficiency is a primary goal. 
+
+> The richness, livability, and output of a city isn't defined by efficiency but by intangible factors like creativity, opportunity, affordability, diversity, mobility, resilience, serendipity
+
+Efficiency isn't, or shouldn't be, a primary goal for cities. Assuming that a certain base level service delivery is taken care of then efficiency drops in priority. The richness, livability, and output of a city isn't defined by efficiency but other, less tangible factors like creativity, opportunity, affordability, diversity, mobility, resilience, serendipity. Yet, the appeal of *big data* and *management dashboards* have shown to hold great appeal for city administrations around the globe.
+
+Once an administration goes down the route of data-driven management, they will be hard-pressed to optimize for anything but what they can measure. This is the crux: Many of the key characteristics that make a great city are intangible and hence hard to measure through sensors.
+
+"In environments with embedded surveillance, do you have a right to opt out?" [asks Francine Berman](https://sciencenode.org/feature/toward-an-ethics-of-the-internet-of-things.php), the Edward P. Hamilton distinguished professor in computer science at Rensselaer Polytechnic Institute.
+
+If a smart city is installed in a centralized, top down approach we usually see a large-scale infrastructure deployment based on sensors and city-wide data processing. Privacy activists would call that surveillance infrastructure. At the very least it is infrastructure with limited democratic oversight that citizens cannot opt out of.
+
+The smart city highlights the inherent power dynamics that emerge when connected systems govern our lives, and the risks to agency, transparency, and governance they bring.
+
+For a more extensive examination of what smart cities mean for citizens see Bieber & Bihr's 2016 research report ([Digitalisierung und die Smart City, available in full in German here](http://www.wbgu.de/en/flagship-reports/fr2016/hg-2016-experts-studies/)) and policy recommendations as part of a German government report [Humanity on the Move](http://www.wbgu.de/en/flagship-reports/fr-2016-urbanization/), ([executive summary in English](http://www.thewavingcat.com/2016/04/25/smart-cities-in-the-21c-humanity-on-the-move-the-transformative-power-of-cities/)). For an excellent critique of smart cities see also Crawford & Goldsmith's 2014 book [The Responsive City](https://www.amazon.com/Responsive-City-Communities-Data-Smart-Governance/dp/1118910907) as well as Greenfield's 2013 pamphlet [Against the Smart City](https://www.amazon.com/Against-smart-city-here-Book-ebook/dp/B00FHQ5DBS).
+
+> The smart city highlights the inherent power dynamics that emerge when connected systems govern our lives, and the risks to agency, transparency, and governance they bring
+
+These two manifestations—the home and the city—illustrate clearly the overall landscape of challenges that we will see manifest in other areas as well. 
+
+## If the Internet of Things will be boon or bane is decided now, in its early stages
+
+Transparency, inclusivity and diversity, governance and oversight, are all aspects that can fall by the wayside just too easily.
+
+**That's why we believe that understanding, and shaping, IoT in a responsible, human-centric way is essential.**
+
+Our theory of change is simple and straightforward: If everybody who is involved in making connected products and services makes better decisions on a day-to-day basis, the global outcome will improve significantly over time. 
+
+If every designer, developer, and entrepreneur makes every decision just a little more responsible, then a few years down the road these improved services and products combined  will touch the lives of hundreds of millions of millions of people around the globe.

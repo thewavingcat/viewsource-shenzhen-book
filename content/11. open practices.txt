@@ -1,0 +1,54 @@
+# Open practices & knowledge sharing
+
+The Shenzhen ecosystem is characterized by integration and openness. 
+
+You'll find a deep integration both internally (design houses and manufacturers work hand in hand) and into global supply chains of all sorts: From the raw materials out of African mines to the final product on a shelf in an American consumer store, everything goes through Shenzhen at some point.
+ 
+**This integration goes hand in hand with an embedded openness as it means that talent moves from company to company and from project to projects easily and fluidly. A get-things-done attitude drives a largely informal knowledge exchange. The preference for partnerships in which all partners have skin in the game requires inherently intense sharing.**
+
+**This openness is worth exploring at some more depth as it is something that many Western entrepreneurs and designers struggle to understand.**
+
+On one hand it leads to a deep and broad expertise in all things related to hardware design and manufacturing. This expertise, it could be argued, is deeper here than just about anywhere else in the world—at least in this broad, systemic sense. Knowledge and best practices also tend to be shared fairly openly. Designs are frequently shared or reverse-engineered. This allows for best practices and *de facto* standards to emerge organically and quickly. This, in turn, leads to ever-quicker prototyping and product development. 
+
+/images/shenzhen_market_arduinofriendly_peterbihr.jpg "During a visit to the market we sampled a wide range of 'Arduino friendly' boards. Samples sold for a few dollars, a larger order would presumably have been much cheaper. Image: Peter Bihr (CC by-nc-sa)"
+
+On the other hand this approach isn't always compatible with the more restrictive Western understanding of intellectual property. However, it leads to fantastic skills and speed of development. Nowhere else can you build something anywhere as quickly, and often as cheaply, as in Shenzhen. These two aspects are two sides of the same coin and cannot meaningfully be separated. You can't get one without the other.
+
+As we learned throughout many conversations, this openness to share has its limits even in Shenzhen: Especially newly developed early stage prototypes out of R&D departments are kept under wraps even in Shenzhen. However, as far as already developed hardware, skills, techniques and best practices are concerned, we found a much higher willingness to share than in most commercial contexts in the West. Maybe the best comparison would be with a maker/hacker space in New York, London, or Berlin, where people will share all there is to share about their tinker projects and document them publicly—but as far as their own new commercial hardware company is concerned, they might not be as forthcoming. 
+
+/images/shenzhen_designfair_smartspoon_peterbihr.jpg "At Shenzhen Industrial Design Fair we saw this smart spoon. Note how it's transparent (and hence possible to see the inner workings), and the brochure shows a list of parts. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30804991506) (CC by-nc-sa)"
+
+Silvia Lindtner is an assistant professor at the University of Michigan's School of Information where she researches transnational networks of innovation and entrepreneurship culture, DIY making and hacking, as well as science and technology studies in China. She has been doing research of Shenzhen's open innovation ecosystem for years. When we spoke to her she mentioned the enormous scale of devices and production in a variety unlike anywhere else, and explained: "At the heart of this ecosystem (...) is an open culture applied to manufacturing. 
+[It is] a kind of open source out of necessity. People came to Shenzhen to make a better living." The entrepreneurs each ran comparatively small manufacturing operations. They teamed up to be able to compete with giants like Apple, Samsung, or Huawei.
+
+> Right now it's only in the West that we haven't seen a open source hardware ecosystem working.
+
+It's worth noting that there spectrum of hobbyist makers on one side and commercial hardware operation on the other is much more fluid than it tends to be in the West. David Li explains: "Here there is very little differentiation between 'I want to make this for fun' and 'I want to make this for profit.' There's no binary distinction of the mindset of makers and startups." 
+This makes a big difference in how to approach openness. Often in the US and Europe makers would share openly what they do. But once they set up companies and prepare to raise money, IP protection becomes a priority. This isn't the case as much in Shenzhen. 
+
+Here you don't necessarily have to choose between open and proprietary as you move into a more commercial space. In this context, open source and business are perfectly compatible. Or as David puts it: "Right now it's only in the West that we haven't seen a open source hardware ecosystem working."
+
+## Shanzhai & Gongban
+
+Two key concepts you need to know about in order to navigate Shenzhen and that we highly recommend you embrace if you ever want to do any business here:
+
+**Shanzhai used to be the name for counterfeit consumer goods. These days its use expanded to also include the reverse engineering practice that leads to cheaper or improved goods of a very similar nature: It's the basis for Shenzhen's evolution-like approach hardware.** 
+
+As [Wikipedia](https://en.wikipedia.org/wiki/Shanzhai) describes it: "Although 'Shanzhai' companies do not use branding as a marketing strategy, they are known for their flexibility of design to meet specific market needs." As such it's an essential part of how the Shenzhen market works.[The Atlantic](https://www.theatlantic.com/technology/archive/2014/05/chinas-mass-production-system/370898/) summarizes *Shanzhai*'s impact on innovation as follows: "the Shanzhai ecology has moved beyond cloning and enabled a wealth of iterative innovations including dual-SIM for frequent travelers to avoid roaming charges, seven-speaker phones for workers to listen to music at construction sites, and custom-designed phones for migrant populations unable to afford the latest smartphone."
+
+/images/whitelabel_smartwatch_peterbihr.jpg "This smart watch is fully white label. Most likely it is built from *Gongban* and *Gongmo* parts. It's a fully functional Android phone including a SIM card slot and camera with object tracking. It sells far under USD 100. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30647818826/) (CC by-nc-sa)"
+
+**Gongban and Gongmo are reference hardware building blocks. Gongban refers to public/open boards, Gongmo to public/open casing. Think de facto standards for building blocks like circuit boards that organically emerge because they work well and developers can easily re-use and re-purpose them.** 
+
+Once there is a community of developers who know a board inside and out, it's adopted by the market, which attracts more developers, and so on. It's a self-reinforcing circle. It's kind of like open source hardware, only nobody takes the extra step of officially open-sourcing and documenting it. *Gongban* and *Gongmo* pieces can be used to make smart phones, smart watches or smart homes more cheaply and more quickly. This reduces the development process to almost plug & play. The designs for *Gongban* and *Gongmo* hardware are distributed for free. Manufacturing companies make money by manufacturing and selling the components.
+
+Noel Joyce, design director of the international hardware startup accelerator HAX, explains the de facto open source approach of Shenzhen like this: "The market is an open book that anyone can learn from. Even the Shanzhai movement, regardless of what the product is: To utilize [non-malicious copying] to help you to understand more is a very powerful and enabling thing to do."
+
+Between Shanzhai, Gongban, Gongmo and regular white labeling it's possible to get to working prototypes or even final products made from (nearly) ready-to-go components and modules in astonishing speed. As Noel Joyce puts it: "One month here is like a week anywhere else. The speed, the iteration cycle becomes so much faster."
+
+Clearly this mode of operation isn't for everyone. But it's important to remember that not every IoT startup needs to start from scratch when building the hardware of their connected service: In many cases, using existing building blocks might be a way to speed up the process, reduce costs, and lower the chance of massive development delays.
+
+
+
+
+

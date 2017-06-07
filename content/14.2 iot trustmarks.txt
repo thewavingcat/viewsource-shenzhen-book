@@ -1,0 +1,27 @@
+# Trustmarks for the Internet of Things (IoT)
+
+We believe that consumer trust labels for IoT—let's call them *IoT trustmarks*—can help consumers, designers, and manufacturers alike to make better-informed decisions around connected products.
+
+> All stakeholder groups can benefit from labeling consumer IoT products
+
+All stakeholder groups can benefit from labeling consumer IoT products according to their features, data practices, and other relevant characteristics:
+
+- Consumers can make better-informed decisions about which products to invite into their lives.
+- Designers and entrepreneurs can more easily communicate their unique selling points, and highlight that they take a responsible approach to product design.
+- Manufacturers can more easily be found by entrepreneurs based on specific requirements once they label their products.
+
+In 2013, The European Consumer Centres' Network published a report on trustmarks. The report focused on consumer trust in e-commerce and was subtitled "Can I trust the trustmark?". In this report, the authors make the case for trustmarks and outline why they are necessary (p.7) (highlights ours): 
+
+"There is no doubt that an increase in shopping also increases the risk of unscrupulous actors and scammers on the market. Earlier research has concluded that the **five major concerns** for e-commerce are security, privacy, unfamiliarity with services, lack of direct interaction, and credibility of information. Although these five areas are closely related, **the key component must be considered to be security**. In order to provide security, trustmark organisations have been described as parties that gather traders under **certain criteria that are important in order to ensure a good climate** for security and online shopping."
+
+This report focused on e-commerce. Yet, while the challenges for IoT are different, they are similar in nature. Certainly it will be helpful to identify the major concerns, and by focusing on these major concerns work out the criteria that are important to ensure a good climate for responsible IoT.
+
+> Approaches to labeling and trustmarks range from the highly centralized and regulated to much "softer" self-declarations
+
+There is a wide range of challenges and opportunities in labeling, and many paths to explore. Approaches to labeling and trustmarks range from the highly centralized and regulated (for example, government certification) to much "softer" self-declarations (ie. companies pledging to stick to certain standards and practices). The current debate has not surfaced a consensus on a best approach.
+
+Members of our informal responsible IoT alliance—including the Shenzhen Open Innovation Lab (SZOIL), ThingsCon, Mozilla Foundation's Open IoT Studio and others, have started to think about opportunities and approaches to make IoT trust labels happen. So far, these efforts are informal conversations. We hope to find a promising approach, and the right multi-stakeholder network of partners from industry, academia, and all other relevant fields.
+
+Our group certainly isn't the only one exploring IoT labels. From grassroots initiatives like IoT London's [Open IoT Assembly](http://iot.london/openiotdefinition2017/) focusing their whole 2017 event on IoT certification, to the [The Digital Standard](https://www.thedigitalstandard.org/)'s digital privacy and security efforts, all the way up to the European Commission's [initiative on IoT labels](https://ec.europa.eu/digital-single-market/en/news/internet-things-privacy-security-workshop), the debate around IoT labels and transparency is heating up—and it's about time.
+
+We believe that together we can contribute to an emerging standard for IoT trustmarks that can help both creators and consumers of IoT services make informed decisions about the trustworthiness of IoT services and products.

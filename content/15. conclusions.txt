@@ -1,0 +1,18 @@
+# Conclusions
+
+TK: MERGE BACK FROM GDOC WITH MARCEL
+
+Based on our research and our visits to Shenzhen, we believe there is a lot of potential for a closer collaboration between European independent IoT practitioners and Shenzhen.
+
+More than ever we learned that first-hand experience is priceless. More personal and knowledge exchange between different regions, ecosystems, and players is a powerful way to build bridges and foster mutual understanding and trust. This holds especially true for the hardware ecosystem of Shenzhen where personal relationships hold extra weight.
+
+We are absolutely convinced that Europe has a range of things to bring to the table. This  includes a strong legal data protection framework, a strong industrial design tradition, and a unique positioning around human-centric & responsible design. 
+This potential comes with responsibility. European IoT practitioners might need to accept the leadership role that they are well-positioned to play in this particular area.
+
+We know that we—the motley crew around ThingsCon, Just Things, and Mozilla's Open IoT Studio—take this responsibility and opportunity very seriously. We strive to promote and strengthen the creation of a responsible IoT, and good data practices around IoT in every way we can.
+
+ThingsCon will continue to grow a global network of community-driven events around a responsible Internet of Things, just as Just Things explores the responsible IoT through design interventions to increase transparency and understanding of IoT products. Mozilla continues to advocate a responsible, ethical IoT through the lens of internet health. And our two related commercial entities—The Incredible Machine and The Waving Cat—will continue to promote responsible IoT through (respectively) design and strategic consultancy.
+
+Trustmarks are another initiative in this overall effort: One important building block among many. Great interest and initial conversations around IoT trustmarks—as well as a strong uptick in global discussions of the topic—confirm that there is growing interest in this space. 
+
+Also, from our conversations over the last year we know that many entrepreneurs in both China and Europe believe that good ethics mean good business. This is an exciting and promising angle we plan to explore further.

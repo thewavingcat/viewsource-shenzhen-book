@@ -1,0 +1,22 @@
+# ThingsCon Shenzhen
+
+/images/shenzhen_thingscon_flyer.jpg "Flyer for the inaugural ThingsCon Shenzhen, hosted by David Li and the Shenzhen Open Innovation Lab (SZOIL)"
+
+On 27 April 2017, David Li and the Shenzhen Open Innovation Lab ([SZOIL](http://szoil.org)) hosted the inaugural ThingsCon Shenzhen event. It was our first ThingsCon ever in Shenzhen, and the second in China. (In Shanghai, [Simone Rebaudengo](http://twitter.com/fishandchipsing) of [automato](automato.farm) already hosts a ThingsCon Salon.)
+
+Presentations and discussions touched on a wide range of the topics that we focus on within the ThingsCon community, and especially how they relate to the Shenzhen hardware ecosystem: 
+
+- Executive Director of Digital Asia Hub Malavika Jayaram explored societal and ethical implications of artificial intelligence and algorithmic decision making, and IoT, and especially how these data-driven systems tend to impact marginalized group disproportionately.
+- Gabriel Ionut Zlamparet gave an intro to remanufacturing of used medical devices. Remanufacturing, re-use, designing for re-use has huge potential for sustainability. Gabriel’s talk stressed the importance of design for re-use, refurbishment, longevity.
+- Jakie Yin of Rone Design showcased a wide range of connected industrial designs his company has been involved in. He explained three distinct development phases for hardware: 1) Zero to one 2) One to hundreds 3) Hundreds to X. Each phase requires different skill sets or partners. 
+- Mozilla's developer evangelist Dietrich Ayala spoke about the opportunities at the intersection connected products, UX, and the open web, and especially about app fatigue and opportunities for better on-boarding of new users in novel IoT-enabled interfaces. 
+- Monique van Dusseldorp hosted a panel discussion with Iskander, Holly, Marcel and myself. We talked about responsible IoT, how it can be applied in the day-to-day work we all do, and explored if there’s a special angle that European indie IoT creators can bring in.
+- David Li gave an impromptu session on how to find components and partners in Shenzhen. Hint: It's not necessarily on the market. Wechat, Taobao, and "technical solution houses" are good places to start.
+
+A write-up with some notes from the event is available on the [ThingsCon blog](http://thingscon.com/2017/06/05/notes-from-the-inaugural-thingscon-shenzhen/).
+
+We hope to be back soon for another ThingsCon Shenzhen event.
+
+/images/shenzhen_thingscon_timesup_peterbihr.jpg "Time is up! Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34258186786) (CC by-nc-sa)"
+
+

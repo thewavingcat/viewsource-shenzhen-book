@@ -1,0 +1,90 @@
+# Shenzhen as a hub for innovation & design
+
+Shenzhen is best known for its manufacturing chops. However, this doesn't do it justice—not anymore. As the ecosystem here keeps maturing, the services offered move upstream. Increasingly, manufacturing is complemented by engineering, design, and consultancy.
+
+This seems to have several reasons:
+
+- More involvement leads to better results. In order to build better products it helps to be involved earlier on rather than just executing someone else's design decisions. 
+- As the ecosystem matures, more skills evolve over time. Design school up their game, more Chinese companies grow their design expertise.
+- Self-developed products help diversify the revenue stream. As we learned in conversations with factory owners, the global financial crisis starting in 2008 led to a slump in revenue from manufacturing. Factory owners started looking into diversifying their revenue streams, and developing their own products was one way to do so. This meant also building up design capacities.
+
+Whatever the leading reason might be, increasingly it's possible (and, one might say, recommended) to involve local talent earlier in the process rather than just dropping a 3D model and a list of specifications onto a local manufacturer.
+
+## Shenzhen Industrial Design Fair
+
+Some of the best results of local design can be seen at the Shenzhen Industrial Design Fair. We spent a day at the 2016 fair, an expo aimed to display Shenzhen’s design output. This might easily be one of the most concentrated meetings of maker of IoT products globally. It's very accessible, easy to navigate. It’s not huge, not very dense, but all the big players in the IoT design world are here. (When we were there, alongside Chinese exhibitors there were a few European guest exhibitors, like a maker of handmade-in-Germany furniture and a Dutch designer of cups, of all things. They could not have looked more out of place in this context.)
+
+/images/shenzhen_designfair_robothand_peterbihr.jpg "A design house showcased robot hands. Shenzhen Industrial Design Fair, Nov 2016. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30209366864) (CC by-nc-sa)"
+
+Of all the Shenzhen exhibits not everything is brand new or groundbreaking. In fact lots of it is more evolutionary than revolutionary. Some products look all-too-familiar, like a lightweight aluminum laptop that turns out not to run MacOS but Windows. Lots of what is on display is high-end, and most things are solution-oriented. The abstraction level is very high—expect to drop from 10k feet to ground level when you go from here to the Huaqiangbei electronics market. 
+
+/images/shenzhen_designfair_mirror_peterbihr.jpg "This smart mirror analyzes your skin and recommends make-up and skin care treatments. Shenzhen Industrial Design Fair, Nov 2016. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30804502156) (CC by-nc-sa)"
+
+Among products that stood out to me were drones of all shapes and sizes. An electric folding bike for 135€—I’m told this isn’t particularly impressive, we’d see more and better options. A smart mirror including skin sensor and diagnostics. Beautiful retro game console prototypes made from polished wood. And beacons, lots of beacons.
+
+## Micro innovation: A special Shenzhen strength
+
+Shenzhen's approach of innovation through evolution—trying out all mutations of and combination of features and shapes—provides an edge for incremental innovation, or "micro innovation" as it's often referred to in China.
+
+Micro innovation becomes possible when the price and time to market allow to run and test products live in the market rather than in focus groups: Rather than A/B testing a prototype, here you can test with actual products in the market. This means an actual market test rather than a simulated one. In theory this makes all the difference, even if of course that test is restricted mostly to Chinese buyers. If a products shows promise, lots of design houses and manufacturers will start to develop their own versions and iterate, tweaking details in design and features. 
+
+As an example, consider the smart phone: You'd find them in different screen sizes and screen brightnesses; in different colors; with or without a front- or back-facing cameras; with dual cameras for 3D imaging; with one, four, or eight speakers; with different USB connectors; with one flash light or several; and so on. Once the market has figured out one or several "ideal" designs, all manufacturers will hone in on that design. This way the risk of product innovation is shared across the ecosystem, and rewards are reaped by all. It's not a  fundamentally different approach than in Western markets, but in some ways a much more pure and collaborative one. And it works in much, much, much quicker iterations.
+
+Consider these two examples of micro innovation from World Maker Group:
+
+/images/microinnovation_speaker.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30651804730) (CC by-nc-sa)"
+A contact microphone speaker for 65rmb (under 10 Euros). No connection needed, you just put the phone on top and it starts amplifying your music or call. It's easier to use and cheaper than bluetooth speakers.
+
+/images/microinnovation_privacyslider.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30953704415) (CC by-nc-sa)"
+This medical tablet allows remotely consulting a doctor. It has a physical blocker for the camera. The video camera can be disabled by moving a physical shutter across it. This makes the privacy level easy to read and is very secure. 
+
+## Other examples of innovative or explorative tech in Shenzhen
+
+> "The street finds its own uses for things."  
+—William Gibson
+
+/images/shenzhen_tech_lamp_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33436148033/) (CC by-nc-sa)"
+This smart lamp was design by a group of three 5th graders. That’s right: 10-11 year olds made this connected lamp. Their curriculum includes the necessary skillsets starting in first grade.
+
+Often you'll see a lot of attention going to one particular category of product which consequentially seems to explode with a huge variety of permutations. During our April 2017 trip we saw this happen to smart rear view mirrors. This is Shenzhen's tech evolution in action:
+
+/images/shenzhen_tech_mirror1_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34089517162) (CC by-nc-sa)"
+This mirror displays a compass and some other bits of data.
+
+/images/shenzhen_tech_mirror2_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34280152735) (CC by-nc-sa)"
+This mirror doesn't seem to mirror anything. Instead it shows a navigation map.
+
+/images/shenzhen_tech_mirror3_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34280312325) (CC by-nc-sa)"
+Rather than mirror anything, this smart rear view "mirror" displays two live HD video feeds, one from a front-facing camera, one from a back-facing camera. They are both displayed picture-in-picture: Front-view in large, rear-view in small. Both feeds are also recorded.
+
+/images/shenzhen_tech_robot_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34123071412) (CC by-nc-sa)"
+Everybody seemed to be working on a robot or two during our April 2017 visit.
+
+/images/shenzhen_tech_360cam_peterbihr.jpg Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34089458932) (CC by-nc-sa)"
+A 360 degree camera at Shenzhen Design Week 2017.
+
+/images/shenzhen_tech_wineaerator_peterbihr.jpg Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34205649516/) (CC by-nc-sa)"
+An electronic wine aerator at Shenzhen Design Week 2017.
+
+/images/shenzhen_tech_speakerlamp_peterbihr.jpg Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33405024134) (CC by-nc-sa)"
+MP3 speaker lamps at Shenzhen Design Week 2017.
+
+/images/shenzhen_tech_cambot_peterbihr.jpg Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33405026694) (CC by-nc-sa)"
+A camera-equipped cleaning bot at Shenzhen Design Week 2017.
+
+/images/shenzhen_tech_antisnore_peterbihr.jpg Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33436056463) (CC by-nc-sa)"
+A smart anti-snore mat at Shenzhen Design Week 2017.
+
+/images/shenzhen_tech_ebike_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34280295045) (CC by-nc-sa)"
+Not every innovation looks high-tech at first glance. Often things look decidedly low-tech or are retrofitted, like this small electric bike.
+
+There are dozens of example of technology that wouldn't exist anywhere else, but that can be made in Shenzhen to test, evolve, improve. And this potential attracts talent and entrepreneurs from around the world.
+
+David Li shares the story of the kid from Lagos who came to Shenzhen and built POS machines for vendors at Lagos’ street markets. It’s easy to forget that there are a lot of very, very different markets and approaches within IoT, and that Shenzhen truly manufactures for the whole world.
+
+Part of this is has to do with economics of scale. Today it’s cheaper to build a smart TV that runs Android than building a non-smart TV, David explains. The economics of large scale production can do wonderful, weird, twisted things.
+
+A large *shanzhai* phone maker started branching out into making an electric car. We look it up: It looks a little like a golf cart. The interior seems cobbled together from medical equipment. It has no doors. But: It's a fully functional electric car—and costs about USD 1.000.
+
+With Chinese companies like Xiaomi, DJI, Makeblocks and BYC, we already see some big success stories in this space. It's safe to assume that over the next decade, we'll see Shenzhen entrepreneurs, designers, and manufacturers increasingly establish themselves as innovators with impact beyond far China's domestic market.
+

@@ -1,0 +1,99 @@
+# Visiting a maker space
+
+TK: x.factory
+
+
+Maker spaces are a strong trend across China. Frequently they cater not just to hobbyists (although this also exists), but often are integrated with incubator programs, hardware labs, or large companies. 
+
+One such corporate-backed maker space is [x.factory](http://www.chaihuo.org/xfactory/). The description on their website tells their origins and goals:
+
+> "Situated in the heart of Shenzhen, x.factory is a new maker hub that provides a prototyping workshop with production-level equipment, co-working space and consulting services and helps to link makers to Shenzhen’s vast manufacturing resources. <br>We’d like to think of x.factory as an “open factory.” It is open because the open source spirit is one of the things we value most in our space. Also, our production-level machines which are usually inaccessible to public are open to members who need them to build their products or create their artworks. And finally, we want to build an open and inclusive community in which people from different backgrounds can come and innovate together. <br>x.factory is operated by Chaihuo Makerspace, Shenzhen’s first and leading makerspace since 2011, and closely partnered with Seeed Studio, a Shenzhen-based company with open hardware products and small batch production capabilities that has served the global maker community since 2008."
+
+We visit on a warm, cloudy day and find a building complex that is still largely empty. The official opening of the complex is planned for July. 
+
+/images/shenzhen_makerspace_skatepark_peterbihr.jpg "The entrance area features a rooftop skate park, the building itself extends underground. Note the trees in the photo? They're recently planted, hence the stabilizer beams. The whole site used to be a hill made of solid rock. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33438600974) (CC by-nc-sa)"
+
+It's obvious from the first moment that x.factory is an impressive upscale maker space with great equipment and backing. It—and the whole complex, if not newly constructed neighborhood—is funded by a real estate company, of course. 
+
+For the company, an innovation space like this has appeal on many levels. It makes the (newly constructed) office space more attractive. Hardware companies here might produce smart home technologies that could potentially be deployed across the company's assets. And of course it looks cool.
+
+x.factory is part of the Chaihuo family of maker spaces. We had been to their smaller outpost at OCT-Loft before. Chaihuo and Seeed are very tightly connected, nearly interchangeable it seems. Within China, the Chaihuo name is very well known; abroad Seeed is the recognized name. Chaihuo was co-founded by Eric Pan, who also founded Seeed Studios.
+
+x.factory sees its role in connecting makers and entrepreneurs with equipment and manufacturing partners:
+
+/images/shenzhen_makerspace_xfactorygraphic.png "Image: xfactory"
+
+The concept of x.factory is that of an open factory, an open maker space. Openness and open source are at the core of the project. A goal is that many projects here have an impact way beyond one company.
+
+Wayne Lin, x.factory's director of operations, kindly gives us an introduction to x.factory and the larger landscape of China's maker spaces.
+
+/images/shenzhen_makerspace_wayne1_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34149486241) (CC by-nc-sa)"
+
+The first maker spaces in Shenzhen started around 2013—around the same time as the HAX accelerator program started, too—and added a lot of energy to the ecosystem. 2015 was a giant breakthrough year for this community. Government, industry, community all see huge opportunities for IoT and maker communities.
+
+/images/shenzhen_makerspace_makerspacemap_peterbihr.jpg "A map of China's maker spaces. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33470246033) (CC by-nc-sa)"
+
+But it's not all easy, there are distinct challenges:
+
+– Spaces like this have vast resources but often manufacturing needs upgrades. There's a close tie-in with manufacturing, so the step from early prototype to production is a much smaller one.
+– There are lots of maker spaces but frequently they lack projects since many makers go straight for startups instead.
+
+This couldn't be a more different landscape than in Europe or the US, where the reverse is usually the case: Lots of projects, very scarce resources.
+
+---
+*Idea: Chinese maker spaces have great resources and expertise but lack projects. European creatives and entrepreneurs are full of ideas but might lack the time and resources to realize them.*
+
+*Can we team up European creatives with design schools to share their project ideas, then master students under supervision by a professor, and in close collaboration with the creatives, own these projects and drive them. They realize them in China with the expertise and resources of Chinese maker spaces.*
+
+*Chinese spaces get projects, students can cut their teeth, the ideas get realized. Everybody wins!*
+
+*(If you'd like to explore this, please get in touch.)*
+
+---
+
+That said, keep in mind that this is what Shenzhen looked like in 1980:
+
+/images/shenzhen_makerspace_shenzhen1980_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34149483721) (CC by-nc-sa)"
+
+Asked about the future of Shenzhen, Wayne says: Shenzhen’s future still looks bright. It’s a young city. Average age is maybe 30 years old. It’s very innovative and entrepreneurial, it’s one of the most exciting cities in China. He adds: Sometimes more experienced people know better how to build a good life, more experienced designers know how to design better products even if it takes longer. This is a field of tension you'd naturally see if there are many junior entrepreneurs.
+
+/images/shenzhen_makerspace_rock_peterbihr.jpg "The ThingsCon delegation. Note the view outside the window in the back? The building complex is built into solid rock. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34239764736) (CC by-nc-sa)"
+
+What’s happening in and around these spaces is also a process of maturing and professionalization. Wayne shares that Chinese makers have long been talking about wanting to move from “made in China” to “innovate in China”. And it’s clearly happening!
+
+Vanke, a huge (formerly state-owned) real estate developer, is a driving force behind x.factory, which explains this super high-end looking building. The presence of a giant real estate company also means an obvious opportunity for those teams that work on IoT especially for smart buildings: Vanke could easily be the biggest buyer.
+
+The property market in China is crazy right now. This also means a huge market opportunity for smart building tech and IoT. China's large cities are a giant construction site, lots of new buildings go up all the time. But how do you drive people to your mall? That’s a big challenge for many developers. The assumption is that IoT can offer solutions.
+
+/images/shenzhen_makerspace_bom_peterbihr.jpg "A bill of materials on a window. Because this is Shenzhen, and it's all about hardware. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33438488054) (CC by-nc-sa)"
+
+Resources like tooling and manufacturing are available easily here at x.factory. This is a recurring theme on this trip: Resources (including funding) seem to be available if you have the right idea.
+
+/images/shenzhen_makerspace_makersgonnamake_peterbihr.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33470221613) (CC by-nc-sa)"
+
+A slide reads “Make with Shenzhen resources, at Shenzhen speed.” They mean it. Both.
+
+x.factory’s business model has three pillars: A mix of small-batch manufacturing, distribution of maker products, provide modules (components?) for production. They also work with corporates like China Mobile or Tencent R&D. In short: 
+
+1. Prototyping and developing tech modules
+2. Manufacturing services
+3. Distribution and sales
+
+Wayne elaborates: “We’re like translators. We help makers develop and sell their products.”
+
+/images/shenzhen_makerspace_opensource_peterbihr.jpg "Open source is a big theme at x.factory. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33438472564) (CC by-nc-sa)"
+
+An audience question about open source: “We need more projects that use open source.” They want to make an impact this way, and see open source as an exciting opportunity.
+
+/images/shenzhen_makerspace_wayne2_peterbihr.jpg "Wayne Lin kindly takes the time for an extended interview after his presentation. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/33470306193/) (CC by-nc-sa)"
+
+During a brief break in the interview we hear choppers (which is a normal, constant thing in Shenzhen) and explosions (which is less normal): For real estate development in this particular area, solid bedrock needs to be blown up. We hear the controlled explosions. The very spot of the building complex we’re in used to be a hill of solid rock.
+
+/images/shenzhen_makerspace_harmandwayne_peterbihr.jpg "Harm explains the Velocracy project and asks for Wayne's feedback. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/34239814306) (CC by-nc-sa)"
+
+x.factory looks like a great maker hub. We wish them the best for the future!
+
+
+
+
+

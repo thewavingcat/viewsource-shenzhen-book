@@ -1,0 +1,29 @@
+# Shenzhen: The world's most mature and integrated hardware ecosystem
+
+If you want to learn about how Shenzhen really work—what makes this most integrated hardware manufacturing ecosystem of the world tick—you want to talk to [David Li](http://twitter.com/taweili), founder of the Shenzhen Open Innovation Lab ([SZOIL](http://szoil.org/)). 
+
+In a long series of conversations spanning meetings in London, Shanghai, Shenzhen, Berlin and chats across at least four different digital channels, he provided more than just a little background for our understanding of Shenzhen. David knows a thing or two about this: David researches the role of open hardware and open source for innovation, and how the Shenzhen ecosystem is evolving. He has lived both in the US and China, has a strong technical background as well as entrepreneurial experience, and enjoys credibility in the maker scene (he founded China's first maker space). These days, as head of SZOIL, he helps build bridges between international companies and the local hardware ecosystem. We couldn’t ask for a better guide. 
+
+According to David, Shenzhen can innovate in the hardware sector at a greater speed than any other region of the world. Shenzhen is the largest, most integrated ecosystem in this space. Openness and knowledge exchange are baked into the system. Combined, this all allows for an almost Darwinian approach, a Cambrian explosion of new products in endless permutations: A truly evolutionary approach to product design.
+
+The direct access to Shenzhen's supply chain is priceless. And it's a supply chain with access to top-notch prototyping and production if ever there was one.
+
+/images/shenzhen_3dprinting_1_peterbihr.jpg "We get a demonstration of an industrial-grade 3D printer. The plastic bottle contains powder to print stainless steel. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/22767536598) (CC by-na-sa)"
+
+As several entrepreneurs pointed out in conversations, you can move from CAD in the morning to finished 3D printed model of your prototype the next day—sometimes even quicker.
+
+> A week here is like a month elsewhere 
+
+"A week here is like a month elsewhere," , as Noel Joyce describes it. As Design Director for international hardware accelerator HAX he knows a thing or two about fast prototyping. After all, the startups he works with have mere weeks to go from idea to manufacturing.
+
+/images/people_noeljoyce_peterbihr.jpg "Noel Joyce is the Design Director for HAX. He knows about the advantages of being able to tap into the Shenzhen ecosystem. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/25317665699) (CC by-nc-sa)
+
+Because of quick turnaround and low costs, it’s possible to make products for niches (in China, even a niche can be quite large in absolute numbers). An example he gives at a lecture at NYU Shanghai is a couple of years old, but no less astounding today: a combination of phone, flashlight, speaker, battery pack and camera. The purpose? Camping. It could have been a hit product. Likely, it never was.
+
+Each of these factors would be powerful in isolation. But when combined, their true potential becomes obvious.
+
+/images/3dprinting_airchannels_peterbihr.jpg "Innovative practices aren't just applied as a service, but also to in-house products. This photo shows how 3D printed molds can include cooling channels that will cool the final molded plastic piece 20% faster, which increases the production output significantly compared to traditional molding. Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30829657652) (CC by-nc-sa)"
+
+With a domestic market of over a billion consumers, Shenzhen could make a living selling just to China. But most of the Western world has their manufacturing of smart watches, phones, chips, and USB ports here as well. If you found it on a retail shelf in the US or Europe, your fitness tracker likely originated in Shenzhen. The global South also depends of Shenzhen for manufacturing and is not small market, either: From ruggedized phones with built-in battery packs to last for a month of standby time, to solar-powered reading lamps for school children to study at night, a great deal of technology for Africa is made in Shenzhen. 
+
+The implications of a machinery to make this all possible are staggering. From the tungsten mines of Africa to fabric-covered premium USB cables for Hong-Kong based luxury brands, huge global supply chains are routed through Shenzhen. For better of worse, if there ever was a true manifestation of globalization, this is it.
