@@ -1,4 +1,4 @@
-# Building a movement for responsible IoT
+## Building a movement for responsible IoT
 
 It seems essential to nurture a broad alliance—a movement, really—that advocates responsible IoT in all its many facets.
 

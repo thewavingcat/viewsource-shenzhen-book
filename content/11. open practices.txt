@@ -1,4 +1,4 @@
-# Open practices & knowledge sharing
+## Open practices & knowledge sharing
 
 The Shenzhen ecosystem is characterized by integration and openness. 
 
@@ -28,7 +28,7 @@ This makes a big difference in how to approach openness. Often in the US and Eur
 
 Here you don't necessarily have to choose between open and proprietary as you move into a more commercial space. In this context, open source and business are perfectly compatible. Or as David puts it: "Right now it's only in the West that we haven't seen a open source hardware ecosystem working."
 
-## Shanzhai & Gongban
+### Shanzhai & Gongban
 
 Two key concepts you need to know about in order to navigate Shenzhen and that we highly recommend you embrace if you ever want to do any business here:
 

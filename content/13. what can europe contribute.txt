@@ -1,4 +1,4 @@
-# A European perspective: What can Europe contribute?
+# Europe can take a lead role in advancing a responsible Internet of Things
 
 ## Why European independent IoT practitioners have a unique take on IoT
 
@@ -15,13 +15,13 @@ Shenzhen's unique hardware ecosystem can provide leverage for this European appr
 
 Europe, and especially European independent IoT practitioners and entrepreneurs, have a unique perspective at the Internet of Things and hence have a special contribution to make. At the risk of over-simplifying, allow me to paint in broad strokes.
 
-## Historical reasons
+### Historical reasons
 
 For historical reasons, Europe is painfully aware of the potential damage that can result from abuse of data. To this day, this historic legacy manifests itself in the European Union's privacy regime. This awareness is probably nowhere as pronounced as in Germany where within a century there was not one but two surveillance states.
 
 More than once I've heard from internal meetings at global tech companies where discussions about privacy and data protection culminated in the question: "Will this work for Germany?" If your privacy measures work for Germany, chances are they'll work anywhere.
 
-## A strong privacy regime
+### A strong privacy regime
 
 The EU has a strict privacy regime and globally one of the strongest legal protections of the use and exploitation of data. Sometimes criticized as stifling innovation, sometimes lauded as a safe haven for citizens' data, this data protection and privacy regime is driven most strongly by consumer rights considerations, ie. a protection of user data against commercial exploitation.
 
@@ -41,7 +41,7 @@ Obviously we recommend a conservative approach: Don't raise, store, or process a
 
 If you're hosting and operating within the EU, tougher privacy and data protection laws apply. While they might be harder to navigate and comply with, we recommend embracing them as a customer-friendly selling point rather than a barrier.
 
-## Less access to venture capital
+### Less access to venture capital
 
 While VC funding has been picking up in European startup hubs like London, Amsterdam and Berlin, access to venture capital funding is nowhere near the levels of Silicon Valley. Europe has solid public funding structures in place, but they tend to be small and/or not easily accessible for smaller organizations. Overall, this shifts the economic incentives away from the grow-quick-and-sell logic of VC funding and more towards sustainable business models.
 
@@ -51,7 +51,7 @@ Now partially this is because if you mainly produce hardware, then that data is 
 
 That said, there are potentially opportunities here for European entrepreneurs. By partnering up with a Chinese design house that helps oversee the hardware side of things, the European partners could focus on the service design part. Having a Chinese stakeholder—or even shareholder—might provide access to funding and manufacturing that would otherwise require venture capital, and building the service part of the offering within the protection of European data regulations might—in the right context—offer the best of both worlds.
 
-## In conclusion: Context matters
+### In conclusion: Context matters
 
 In combination, these factors paint a different picture than what you'd find particularly in the United States, the main Western hot spot for IoT development. 
 

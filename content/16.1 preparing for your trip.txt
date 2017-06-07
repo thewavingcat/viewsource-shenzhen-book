@@ -1,10 +1,10 @@
-# Preparing for your trip
+## Preparing for your trip: Practical advice
 
 Are you planning to visit Shenzhen yourself? Here are some pointers that we hope will be helpful. Going to Shenzhen requires a bit of preparation. Some of it is the usual, some aspects might surprise you.
 
 This is not an extensive list, but it highlights some of the things that set Shenzhen apart from other destinations.
 
-## Get a visa for the Shenzhen Special Economic Zone
+### Get a visa for the Shenzhen Special Economic Zone
 
 Shenzhen is a special economic zone (SEZ), and it requires business visa. Exact rules differ from country to country, so make sure to check. 
 
@@ -12,7 +12,7 @@ The visa applications requires some very detailed documentation. This includes a
 
 That said, with a letter of invitation from a local partner and all paperwork ready we found the process to be pretty smooth and quick.
 
-## How to get to Shenzhen
+### How to get to Shenzhen
 
 How to get to Shenzhen from different locales is well documented online. We recommend flying into Shenzhen directly, or to fly into Hong Kong and crossing the border from there. Busses, taxis, trains and ferries are all options depending on your personal preference. The bus, for example, takes about an hour. Lines at the double border crossing can take a while for international travelers because there is one paperwork check on the mainland Chinese side, one on the Hong Kong side. Allow for some buffer time. 
 
@@ -20,13 +20,13 @@ How to get to Shenzhen from different locales is well documented online. We reco
 
 If you don't want to go through Hong Kong, Shenzhen has a regional airport as well that is well served from major Chinese cities. Flights go almost hourly from Shanghai, for example. Shenzhen is not an "exotic" vacation location but primarily a large business destination and serviced accordingly.
 
-## Security concerns
+### Security concerns
 
 Overall safety felt entirely unproblematic. However, we got warned repeatedly and credibly that electronic security is a real concern. Supposedly because of the extremely high-value potential targets, industrial espionage is huge in this region. We were warned to assume that all electronic devices and networks are under constant attack. 
 
 Security researchers recommend burner phones and burner laptops (i.e. one-time use, blank, non-essential hardware that you won't keep using back home without a prior factory reset). Up-to-date security software is a must. But even if you don't want to go that far, a VPN service to protect all incoming and outgoing data is essential—this holds true especially if you need to connect to Western internet services (Google, Apple, WhatsApp, Skype, etc.) which otherwise might be blocked. Obviously don't log onto any wifi without serious protection, ever.
 
-## Internet access
+### Internet access
 
 Access to international internet services is a thorny issue in China. Even with solid preparation it sometimes works, sometimes it doesn't. Make sure to prepare your devices before your trip and to know you know what kind of risks you're willing to accept and what you need to prepare for.
 
@@ -34,7 +34,7 @@ Access to international internet services is a thorny issue in China. Even with 
 This left us in a strange situation while traveling in China. As foreigners we could not fully access the Western web, yet due to language and knowledge barriers (we don’t know the apps, and wouldn’t be able to make any transactions without a Chinese bank account anyway) we couldn't really use the Chinese web either. At times we were fully connected, at times we were mostly offline. 
 Think of the internet like weather: There are good days and bad days, and either way there’s no point in working yourself up about it. 
 
-## Worth reading & watching
+### Worth reading & watching
 
 [Bunnie Huang](https://twitter.com/bunniestudios)'s [Guide to Electronics in Shenzhen](https://www.adafruit.com/product/3189) proved a very helpful read for our planning. It's full of hands-on advice for both pre-travel planning and on-site tipps. Highly recommended.
 
@@ -42,7 +42,7 @@ WIRED's excellent documentary on Shenzhen is also absolutely worth watching. (If
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/hp6F_ApUq-c" frameborder="0" allowfullscreen></iframe>
 
-## Some practical advice
+### Some practical advice
 
 **Carry cash.** Make sure to have cash on you at all times. Many internationally issued credit cards won't work outside high-end hotels and restaurants. It's a gamble. The maybe most useful electronic payment systems (Alipay, WeChat wallet) also don't work with most country's credit cards (although the list of partner countries seems to be growing slowly).
 

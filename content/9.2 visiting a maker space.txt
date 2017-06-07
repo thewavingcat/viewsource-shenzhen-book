@@ -1,7 +1,4 @@
-# Visiting a maker space
-
-TK: x.factory
-
+## Visiting a maker space
 
 Maker spaces are a strong trend across China. Frequently they cater not just to hobbyists (although this also exists), but often are integrated with incubator programs, hardware labs, or large companies. 
 

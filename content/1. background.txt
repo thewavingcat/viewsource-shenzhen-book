@@ -1,4 +1,6 @@
-**# Why this book?
+# Intro
+
+## Why this book?
 
 The internet touches ever-more parts of our lives. What started with the digitization of information—newspapers, music, academic research—now reaches into the physical world as well. Connectivity and microprocessors get cheaper and more powerful every day. Meet the Internet of Things, *IoT* for short.
 
@@ -42,7 +44,7 @@ For a number of historical, economic and political reasons European independent 
 3. **Shenzhen's hardware ecosystem can provide leverage.**  
 Shenzhen's unique hardware ecosystem can provide leverage for this European approach and hence help create more responsible IoT practices at scale.
 
-## Why European independents have a unique take on IoT
+### Why European independents have a unique take on IoT
 
 I am convinced Europe, and especially European independents and small companies, have a unique perspective at the Internet of Things and hence have a special contribution to make. At the risk of over-simplifying, allow me to paint in broad strokes.
 
@@ -54,7 +56,7 @@ We'll elaborate on these points in the chapter *A European perspective*.
 
 In combination, this paints a different picture than what you'd find particularly in the United States, the main Western hot spot for IoT development. 
 
-## Technology is political
+### Technology is political
 
 People tend to think of technology as a something non-moral: Objective and rational, like a hammer or a roof tile. It is the use of technology that it could be considered in terms of good or evil. But when you take a close look at products that embed technology, we can see that any product is the result of a series of decisions, both practical and moral. Technology is highly political.
 
@@ -64,7 +66,7 @@ In the context of Western economical discourse, data is considered a valuable re
 
 In the Chinese context, especially in Shenzhen, the economics of IoT have been unfolding entirely differently. 
 
-## Why is Shenzhen so relevant to understand?
+### Why is Shenzhen so relevant to understand?
 
 Just like Europe, China's economy has a large service sector. But unlike most companies in the United States and Europe, Shenzhen's focus is on manufacturing of hardware. The revenue comes from shipping physical products, not services. And Shenzhen doesn't just build their own IoT products but manufactures the devices for the whole world. If you look around at the electronic devices in your life, chances are they were made in Shenzhen. (Numbers vary and are hard to verify, but some [estimates assume](http://www.inc.com/will-yakowicz/shenzhen-city-of-electronics.html) that 90% of global electronics worldwide are made here.)
 
@@ -83,7 +85,7 @@ In a sense, Shenzhen has become the Silicon Valley of hardware. To make an infor
 
 Here's what we learned.
 
-## ThingsCon & promoting a responsible IoT in Shenzhen
+### ThingsCon & promoting a responsible IoT in Shenzhen
 
 During a recent trip to Shanghai we learned that there is significant interest in China in responsible IoT and design. The first ThingsCon Salon Shanghai, organized by [Simone Rebaudengo](http://twitter.com/fishandchipsing) (co-founder of [automato](automato.farm)), attracted 50 people right away. They were a solid mix of locals and expats, designers and entrepreneurs.
 
@@ -91,7 +93,7 @@ In April 2017 we held our second ThingsCon event in China, this one in Shenzhen 
 
 We're convinced that the Shenzhen hardware ecosystem can provide leverage to advance our mission of promoting a responsible Internet of Things. And so far, the interest we have encountered across countless conversations confirms this.
 
-## About this document
+### About this document
 
 This document was written as part of a larger research effort that included, among other things, two trips to Shenzhen, a video documentary, and lots of workshops, meetings, and events over a period of about a year. It's part of the documentation of these efforts. Links to the other parts are interspersed throughout this document. 
 
@@ -101,7 +103,7 @@ We thank Creative Industries Fund NL for their support.
 
 /images/creativeindustriesfund_logo.jpg "We thank the Dutch Creative Industries Fund for their support."
 
-## About the author
+### About the author
 
 Peter Bihr is the founder and Managing Director of [The Waving Cat GmbH](http://thewavingcat.com) where he explores impact and opportunities of emerging technologies—especially Internet of Things (#iot). As an innovation & strategy advisor, he helps organizations excel in an environment shaped by digitization, connectedness and rapid change.
 

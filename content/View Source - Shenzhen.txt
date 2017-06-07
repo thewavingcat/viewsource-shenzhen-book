@@ -1,0 +1,41 @@
+v0.9 (7 June 2017)
+
+/images/cover.jpg
+
+**Table of content**
+
+{{TOC}} 
+
+
+/1. background.txt
+/2. how to read this book.txt  
+
+/4. relevance of responsible iot.txt
+
+/5. a short history of shenzhen.txt
+/6. hardware ecosystem.txt
+/7. innovation hub.txt
+/8. huaqiangbei.txt
+/9. how to interface with shenzhen.txt
+/9.1 visiting a bike lock manufacturer.txt
+/10. ethical considerations.txt
+/11. open practices.txt
+/12. made in china.txt
+
+/13. what can europe contribute.txt
+/14. promoting responsible iot.txt
+/14.1 thingscon shenzhen.txt
+/14.2 iot trustmarks.txt
+/14.3 building a movement for responsible iot.txt
+
+/15. conclusions.txt
+
+/16.1 preparing for your trip.txt
+/16.2 acknowledgements.txt
+/17. copyright information.txt
+
+
+
+
+
+

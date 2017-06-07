@@ -1,4 +1,6 @@
-# A short history of Shenzhen
+# Understanding Shenzhen's role in the global hardware ecosystem
+
+## A short history of Shenzhen
 
 Today, Shenzhen is at the very heart of the global production (and increasingly, design) of connected products: If we wanted to point at the origin of most of today's consumer-facing Internet of Things, it mainly boils down to two places: Silicon Valley for the service/software side. And Shenzhen for the device/hardware side. Naturally there are other influential regions, but these two have the lead in their respective areas, with a large margin.
 

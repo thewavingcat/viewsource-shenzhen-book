@@ -1,4 +1,4 @@
-# How to interface with the Shenzhen ecosystem
+## How to interface with the Shenzhen ecosystem
 
 It's common, but not at all recommended, to just drop into Shenzhen with a ready prototype and try to find someone to make 500.000 units from that prototype. This approach is extremely tricky and most likely to cause severe issues.
 
@@ -6,7 +6,7 @@ Instead, for desirable outcomes it helps to talk to local designers, engineers a
 
 A key role in doing this is played by design houses.
  
-## Design houses
+### Design houses
 
 Painting in broad strokes, design companies play a slightly different role in this ecosystem than in Europe or the US. Rather than focusing on concept work and refinement of products, the value here is in getting you all ready to ship. 
 
@@ -20,7 +20,7 @@ Industrial design houses are also great interfaces for sourcing. They're one abs
 
 Beyond that, design houses might offer to partner with everything, including full partnerships and investments, which increases their stakeholdership and reduces risk for foreign entrepreneurs.
 
-## Technical solution houses
+### Technical solution houses
 
 Shenzhen is full of so-called technical solution houses. Solution houses build very specific technical solutions, help you solve specific issues, like finding, building, or adapting a certain board. Most customers don't ask for exclusivity, so these solutions can usually be re-used. There are somewhere between 5-10K of them. They can help you source. 
 How do you find a technical solution house?
@@ -37,19 +37,19 @@ Timing matters a great deal: During our last visit 6 months ago, smart bike lock
 
 Please note that these channels are strictly for professionals, not hobbyists. David Li of the Shenzhen Open Innovation Lab cautions that wasting anyone's time is not appreciated.
 
-## Consultants
+### Consultants
 
 Asking about consultants, this is joking the response we got from David Li: "There are no consultants in Shenzhen. No shipping, no money."
 
-## Ideation vs shipping
+### Ideation vs shipping
 
 Ideation does not seem to be as big a concept here as it is in the West. “This is business,” we're told. Why, it seems to be the thinking, hire a design consultancy to run a workshop that defines the minimal viable product or core features if you can just build variations of the product and test them in the market under real-life conditions? It’s a fundamentally different approach to figuring out market fit, one that only works in this ecosystem. 
 
-## Real-market A/B testing
+### Real-market A/B testing
 
 Having access to cheap and fast manufacturing means you can do real world A/B testing. After 3 months you know what works. This is also a way to hedge your bets. For a product design company, the risk and investment of a new product is high, the model is similar to VC funding. Maybe one in ten products is really successful. Raising the level of experimentation, by lowering the barrier to market testing, the overall risk is lowered. 
 
-## Design vs design for manufacturing
+### Design vs design for manufacturing
 
 There’s not really a distinction between “design” and “design for manufacture”. It’s all designed with manufacturing in mind, from the very first moment. 
 
@@ -57,21 +57,21 @@ There’s not really a distinction between “design” and “design for manufa
 
 The traditional and dominant model of collaboration is a partnership: Rather than just bringing a big bag of cash and buy the design and manufacturing straight up, revenue share is also common. Manufacturers are often willing to forego their upfront investments in designing a product for a partner in exchange for revenue share. All parties are in it together. Once initiated, this partnership process can move quickly. Be sure to know what you need and are willing to give in exchange.
 
-## Trust local talent
+### Trust local talent
 
 It’s possible and highly recommended to tap into the local knowledge and expertise. Folks here know how to build things highly efficiently and cost-effectively. Engineers most likely  know how to reverse engineer hardware products, too, and hence can quickly assess how it might be possible to improve them.
 
-## Relationships are key
+### Relationships are key
 
 Shenzhen works through personal relationships. Developing personal relationships and establishing trust is absolutely essential. Introductions through shared acquaintances are priceless. Allow for time to build these relationships as for without them your efforts are likely not going to work out. Especially don't just try to throw more money at something rather than fostering trust and respect. As we learn in our conversations this is culturally inappropriate and unlikely to yield desirable outcomes.
 
-## What is it you want?
+### What is it you want?
 
 Entrepreneurs can ask for anything to be made, in any way they want it made. Chances are Shenzhen can make it work—or so we're told. It helps to specify exactly what it is you need and why. This empowers partners to make better choices in their customers' and partners' interests. It's also essential to do the research to be aware of the tradeoff these requests might entail. For example, asking for fair wages might up the labor costs, while pushing for lower prices is likely to negatively impact wages. This is not on the manufacturer but on the customer specifying their priorities and putting their money where their mouth is.
 
 This is the theory—how well it works in practice we had no chance of confirming.
 
-## Openness rules
+### Openness rules
 
 There's a clash between the traditional, restrictive Western model of intellectual property (IP) and the much more open, knowledge sharing-oriented approach of both the open source community and the Shenzhen hardware ecosystem.
 
@@ -79,7 +79,7 @@ Whereas traditional IP protection assumes innovation through limited access, ope
 
 **This approach to IP can be distressing to more traditional Western entrepreneurs. If you fall into that category Shenzhen might not be the right place for you. The key, we're frequently reminded, is not to see *Shanzhai* and this open sharing as a problem but to embrace it as it enables deep skill sets and an extraordinary talent pool.**
 
-## Involve local experts
+### Involve local experts
 
 Without local experts with an eye on the ground trouble is unavoidable in a context as fluid and fast-moving as the Shenzhen hardware ecosystem. 
 
@@ -87,7 +87,7 @@ As an example, consider the Silicon Valley hardware accelerator HAX that has a p
 
 Organizations like David Li's Shenzhen Open Innovation Lab can help you identify good local partners to talk to. Also make sure to talk to people onsite you trust. There's a growing network of people who have experience in Shenzhen, across Europe and in the US. Many of them have been in similar situations and will be happy to share their experiences and contacts, and expect the same from you. 
 
-## Organizations that can help you get started in Shenzhen
+### Organizations that can help you get started in Shenzhen
 
 Choosing the right partners to work with can be overwhelming, especially remotely and through a language barrier. However, you might not have to start from scratch: There are organizations in place to help.
 

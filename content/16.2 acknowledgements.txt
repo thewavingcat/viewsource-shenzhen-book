@@ -1,4 +1,4 @@
-# Acknowledgements
+## Acknowledgements
 
 This book would not have been possible without the kind help and support by many friends and partners. A big thank you to...
 

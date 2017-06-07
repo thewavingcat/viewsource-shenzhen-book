@@ -1,4 +1,4 @@
-# Copyright information
+## Copyright information
 
 The text in this document is meant for sharing freely online. The text is therefore licensed under a [Creative Commons Attribution-Sharealike (by-sa) license](https://creativecommons.org/licenses/by-sa/4.0/). 
 

@@ -1,4 +1,4 @@
-# Shenzhen as a hub for innovation & design
+## Shenzhen as a hub for innovation & design
 
 Shenzhen is best known for its manufacturing chops. However, this doesn't do it justice—not anymore. As the ecosystem here keeps maturing, the services offered move upstream. Increasingly, manufacturing is complemented by engineering, design, and consultancy.
 
@@ -10,7 +10,7 @@ This seems to have several reasons:
 
 Whatever the leading reason might be, increasingly it's possible (and, one might say, recommended) to involve local talent earlier in the process rather than just dropping a 3D model and a list of specifications onto a local manufacturer.
 
-## Shenzhen Industrial Design Fair
+### Shenzhen Industrial Design Fair
 
 Some of the best results of local design can be seen at the Shenzhen Industrial Design Fair. We spent a day at the 2016 fair, an expo aimed to display Shenzhen’s design output. This might easily be one of the most concentrated meetings of maker of IoT products globally. It's very accessible, easy to navigate. It’s not huge, not very dense, but all the big players in the IoT design world are here. (When we were there, alongside Chinese exhibitors there were a few European guest exhibitors, like a maker of handmade-in-Germany furniture and a Dutch designer of cups, of all things. They could not have looked more out of place in this context.)
 
@@ -22,7 +22,7 @@ Of all the Shenzhen exhibits not everything is brand new or groundbreaking. In f
 
 Among products that stood out to me were drones of all shapes and sizes. An electric folding bike for 135€—I’m told this isn’t particularly impressive, we’d see more and better options. A smart mirror including skin sensor and diagnostics. Beautiful retro game console prototypes made from polished wood. And beacons, lots of beacons.
 
-## Micro innovation: A special Shenzhen strength
+### Micro innovation: A special Shenzhen strength
 
 Shenzhen's approach of innovation through evolution—trying out all mutations of and combination of features and shapes—provides an edge for incremental innovation, or "micro innovation" as it's often referred to in China.
 
@@ -38,7 +38,7 @@ A contact microphone speaker for 65rmb (under 10 Euros). No connection needed, y
 /images/microinnovation_privacyslider.jpg "Image: [Peter Bihr](https://www.flickr.com/photos/thewavingcat/30953704415) (CC by-nc-sa)"
 This medical tablet allows remotely consulting a doctor. It has a physical blocker for the camera. The video camera can be disabled by moving a physical shutter across it. This makes the privacy level easy to read and is very secure. 
 
-## Other examples of innovative or explorative tech in Shenzhen
+### Other examples of innovative or explorative tech in Shenzhen
 
 > "The street finds its own uses for things."  
 —William Gibson

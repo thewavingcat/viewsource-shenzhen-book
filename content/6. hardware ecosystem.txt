@@ -1,4 +1,4 @@
-# Shenzhen: The world's most mature and integrated hardware ecosystem
+## Shenzhen: The world's most mature and integrated hardware ecosystem
 
 If you want to learn about how Shenzhen really work—what makes this most integrated hardware manufacturing ecosystem of the world tick—you want to talk to [David Li](http://twitter.com/taweili), founder of the Shenzhen Open Innovation Lab ([SZOIL](http://szoil.org/)). 
 

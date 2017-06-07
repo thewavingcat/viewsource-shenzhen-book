@@ -1,4 +1,4 @@
-# Ethical considerations when designing data-driven products to manufacture in Shenzhen
+## Ethical considerations when designing data-driven products to manufacture in Shenzhen
 
 Building connected products and services comes with its own set of particular challenges. This holds especially true when working with sensitive data—like in the case of many connected products—and when designing for manufacture in China.
 
@@ -19,7 +19,7 @@ Inherently this means a lot less interest in capturing any data whatsoever: In m
 
 That said, there are tremendously successful, large digital services in China that build heavily on data mining. Wechat comes to mind, Tencent's ubiquitous chat-plus-payment-plus-everything-else app.
 
-## What about security?
+### What about security?
 
 Security and the internet of things are not, historically, on good footing. Most of the time when IoT makes the headlines it is because of a security breach. 
 

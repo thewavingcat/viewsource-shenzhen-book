@@ -1,4 +1,4 @@
-# Trustmarks for the Internet of Things (IoT)
+## Trustmarks for the Internet of Things (IoT)
 
 We believe that consumer trust labels for IoT—let's call them *IoT trustmarks*—can help consumers, designers, and manufacturers alike to make better-informed decisions around connected products.
 

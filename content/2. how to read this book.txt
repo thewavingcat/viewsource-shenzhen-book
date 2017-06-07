@@ -1,4 +1,4 @@
-# How to read this book
+## How to read this book
 
 This document is a mix of documentation, advocacy, and guide book. 
 
