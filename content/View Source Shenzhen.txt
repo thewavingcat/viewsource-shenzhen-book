@@ -1,0 +1,71 @@
+/images/cover_a4.jpg
+
++++
+
+Version: v1.0 / 8 June 2017
+
+View Source: Shenzhen  
+by Peter Bihr   
+In collaboration with The Incredible Machine, supported by Creative Industries Fund NL.
+
+ISBN 978398188101.   
+Copyright 2017 Peter Bihr.  
+Published by The Waving Cat GmbH, Prinzenstr. 84, 10969 Berlin, Germany.  
+June 2017: First Edition.
+
+The text in this document is meant for sharing freely online. The text is therefore licensed under a [Creative Commons Attribution-Sharealike (by-sa) license](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+/images/creativecommons.png
+
+This means you can
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+All you have to do is to follow the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+As for the images used in this book: Most images are taken by the author and are available on his [Flickr account](https://www.flickr.com/photos/thewavingcat/). If not stated otherwise, they are licensed under a Creative Commons [CC by-nc-sa](https://creativecommons.org/licenses/by-nc-sa/4.0) license. Some images are used with the kind permission of other creators. For these, different licenses apply; licenses or sources are provided with each image.
+
++++
+
+**Table of content**
+
+{{TOC}} 
+
++++
+
+/1. background.txt
+/2. how to read this book.txt  
+
+/4. relevance of responsible iot.txt
+
+/5. a short history of shenzhen.txt
+/6. hardware ecosystem.txt
+/7. innovation hub.txt
+/8. huaqiangbei.txt
+/9. how to interface with shenzhen.txt
+/9.1 visiting a bike lock manufacturer.txt
+/10. ethical considerations.txt
+/11. open practices.txt
+/12. made in china.txt
+
+/13. what can europe contribute.txt
+/14. promoting responsible iot.txt
+/14.1 thingscon shenzhen.txt
+/14.2 iot trustmarks.txt
+/14.3 building a movement for responsible iot.txt
+
+/15. conclusions.txt
+
+/16.1 preparing for your trip.txt
+/16.2 acknowledgements.txt
+/17. copyright information.txt
+
+
+
+
+
+

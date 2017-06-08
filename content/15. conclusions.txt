@@ -1,6 +1,6 @@
 # Conclusions
 
-Based on our research and our visits to Shenzhen, we believe there is a lot of potential for a closer collaboration between European independent IoT practitioners and Shenzhen.
+Based on our research and our visits to Shenzhen, we believe there is a lot of potential for a closer collaboration between European independent IoT practitioners and Shenzhen, and to work with the local hardware ecosystem to promote the creation of a responsible Internet of Things.
  
 Shenzhen is a hardware maker’s dream—to a degree. We found the openness and approachability of the ecosystem astounding, and the level of integrated skills and capabilities enormous. But all that glitters ain’t gold: Things are more challenging once you get into the nitty-gritty, and the way business is done often differs from the West. For example, quality control is to a large degree something the buyer needs to provide, or arrange for, and startups for whom intellectual property protection is high on their agenda might encounter friction. On the other hand, we found an overall openness and willingness to share best practices and already developed hardware components that manifested both in business practices and in Shanzhai and Gongban/Gongmo hardware.
  
