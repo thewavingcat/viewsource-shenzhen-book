@@ -4,7 +4,7 @@
 
 Version: v1.0 / 8 June 2017
 
-View Source: Shenzhen  
+View Source: Shenzhen
 by Peter Bihr   
 In collaboration with The Incredible Machine, supported by Creative Industries Fund NL.
 
