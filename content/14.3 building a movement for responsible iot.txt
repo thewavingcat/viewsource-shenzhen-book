@@ -7,3 +7,5 @@ We see our research trips to Shenzhen, this publication, the broad range of acti
 We jokingly referred to our merry band on these trips as the #RIoT Alliance—the Responsible Internet of Things Alliance. It's not a fixed group, or even an official one. We believe that any organization should be free to choose to self-identify as "values-aligned" and support this overall agenda for a responsible IoT. 
 
 We're all in this together.
+
++++

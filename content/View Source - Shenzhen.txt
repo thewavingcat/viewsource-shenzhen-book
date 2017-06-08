@@ -1,6 +1,8 @@
-v0.9 (7 June 2017)
-
 /images/cover.jpg
+
++++
+
+v0.9 (7 June 2017)
 
 **Table of content**
 

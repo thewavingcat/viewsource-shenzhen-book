@@ -1,18 +1,24 @@
 # Conclusions
 
-TK: MERGE BACK FROM GDOC WITH MARCEL
-
 Based on our research and our visits to Shenzhen, we believe there is a lot of potential for a closer collaboration between European independent IoT practitioners and Shenzhen.
-
+ 
+Shenzhen is a hardware maker’s dream—to a degree. We found the openness and approachability of the ecosystem astounding, and the level of integrated skills and capabilities enormous. But all that glitters ain’t gold: Things are more challenging once you get into the nitty-gritty, and the way business is done often differs from the West. For example, quality control is to a large degree something the buyer needs to provide, or arrange for, and startups for whom intellectual property protection is high on their agenda might encounter friction. On the other hand, we found an overall openness and willingness to share best practices and already developed hardware components that manifested both in business practices and in Shanzhai and Gongban/Gongmo hardware.
+ 
 More than ever we learned that first-hand experience is priceless. More personal and knowledge exchange between different regions, ecosystems, and players is a powerful way to build bridges and foster mutual understanding and trust. This holds especially true for the hardware ecosystem of Shenzhen where personal relationships hold extra weight.
-
-We are absolutely convinced that Europe has a range of things to bring to the table. This  includes a strong legal data protection framework, a strong industrial design tradition, and a unique positioning around human-centric & responsible design. 
+ 
+Can any maker just show up and start manufacturing at scale? Maybe—but in addition to establishing trusted relationships they might need to bring that scale, or at least proof of potential scale, like a successful Kickstarter.
+ 
+Our hypothesis was that, broadly speaking, the software-focused companies in Silicon Valley extract more value from data whereas the hardware-focused Shenzhen ecosystem lives off of selling units of hardware. As a rule of thumb, this holds true, but there are exceptions and grey areas. While it’s true that the Shenzhen hardware ecosystem skews strongly towards selling hardware (as opposed to mining data), there are highly mature software and service companies here, too. Tencent, the makers of the ubiquitous Wechat app, is maybe the most prominent example of a service company, and their data mining efforts are extremely mature and sophisticated.
+ 
+We are absolutely convinced that Europe has a range of things to bring to the table. This  includes a strong legal data protection framework, a strong industrial design tradition, and a unique positioning around human-centric & responsible design.
 This potential comes with responsibility. European IoT practitioners might need to accept the leadership role that they are well-positioned to play in this particular area.
-
+ 
 We know that we—the motley crew around ThingsCon, Just Things, and Mozilla's Open IoT Studio—take this responsibility and opportunity very seriously. We strive to promote and strengthen the creation of a responsible IoT, and good data practices around IoT in every way we can.
-
+ 
 ThingsCon will continue to grow a global network of community-driven events around a responsible Internet of Things, just as Just Things explores the responsible IoT through design interventions to increase transparency and understanding of IoT products. Mozilla continues to advocate a responsible, ethical IoT through the lens of internet health. And our two related commercial entities—The Incredible Machine and The Waving Cat—will continue to promote responsible IoT through (respectively) design and strategic consultancy.
-
-Trustmarks are another initiative in this overall effort: One important building block among many. Great interest and initial conversations around IoT trustmarks—as well as a strong uptick in global discussions of the topic—confirm that there is growing interest in this space. 
-
+ 
+Trustmarks are another initiative in this overall effort: One important building block among many. Great interest and initial conversations around IoT trustmarks—as well as a strong uptick in global discussions of the topic—confirm that there is growing interest in this space.
+ 
 Also, from our conversations over the last year we know that many entrepreneurs in both China and Europe believe that good ethics mean good business. This is an exciting and promising angle we plan to explore further.
+
++++

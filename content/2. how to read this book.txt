@@ -1,14 +1,26 @@
-## How to read this book
+## How to get most out of this document
 
 This document is a mix of documentation, advocacy, and guide book. 
 
 In your internet browser, if you "view source" you get to look under the hood of the website you're visiting. This helps you understand how everything works, or why it doesn't. We see this document in that same tradition, hence the name *View Source: Shenzhen*.
 
-In this document we share some of our experiences from Shenzhen, our positions, and some very hands-on pointers that might just make your life in Shenzhen so much easier. (You'll find a collection of useful hints to prepare your visit in the chapter *Preparing for your trip*.)
+In this document we share some of our experiences from Shenzhen, our positions, and some very hands-on pointers that might just make your life in Shenzhen so much easier. You'll find a collection of useful hints to prepare your visit in the chapter *Preparing for your trip*.
+
+You'll find this document is roughly separated into three sections. They explore why responsible IoT is so important, how this relates to Shenzhen, and what Europe can bring to the table:
+
+1) Why is a responsible Internet of Things so important?
+2) Understanding Shenzhen's role in the global hardware ecosystem
+3) Europe can take a lead role in advancing a responsible Internet of Things
+
+You'll find the chapters are written so they can stand on their own as much as possible, so it should be easy to skip around the text freely.
+
+*View Source: Shenzhen* exists in primarily two formats and locations: A downloadable file (TK: LINK TO PDF) as well as a series of individual articles on Medium (TK: LINK TO OVERVIEW). Both are conveniently linked from [thewavingcat.com/viewsource-shenzhen](https://thewavingcat.com/viewsource-shenzhen).
+
+Everything in this text is based on a mix of conversations with experts on the ground, subjective experiences, and our own interpretations. Don't take it as a definite, hard-coded set of rules—we believe it can be most helpful for some background and as an inspiration.
 
 For our first trip we made a point of keeping an extra open mind. We tried to cultivate a certain naivety in order not to bring in too many presumptions. In some cases we also simply got things wrong, and we share those, too wherever they seem relevant and useful. Simultaneously, we worked closely with local partners—especially our host David Li of the Shenzhen Open Innovation lab—without whom we would have not gotten anywhere as deeply into this ecosystem. We have him and his team and partners to thank not just for kindly hosting us but also for sharing their time, contacts, and knowledge with us openly and more than graciously.
 
-By doing our first whirlwind trip and working with our local Shenzhen partners we developed a much better understanding on what works and what doesn't, the what, how and why. This allowed us to do a second trip, this time opening up seats for 20 participants to join in, and provide them with a similar experience. 
+By doing our first whirlwind trip and working with our local Shenzhen partners we developed a much better understanding on what works and what doesn't, the what, how and why. This allowed us to do a second trip, this time opening up seats for a larger group to join in, and provide them with a similar experience. 
 
 On both trips, part of The Incredible Machine had a side quest: To prototype Velocracy, a smart bike lock to serve as the backbone of a decentralized, open-source bike sharing network that is fair for everyone, based on blockchain technology and open source hardware. 
 
@@ -63,3 +75,5 @@ The foundation aims to increase the awareness about ethical dilemmas in the deve
 - Newsletter signup: [ThingsCon News](http://thingscon.com/)
 - Newsletter signup: [ThingsCon's Human Tech Radar?](http://thingscon.us8.list-manage1.com/subscribe?u=f2b6b378b4bdbca050a37f24b&id=0eae614974)
 - ThingsCon Amsterdam ([website](https://www.thingscon.nl/), [Twitter](https://twitter.com/thingsconAMS))
+
++++

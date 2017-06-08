@@ -1,4 +1,4 @@
-# Why is a responsible Internet of Things so important?
+# 1) Why is a responsible Internet of Things so important?
 
 Connectivity increasingly permeates the physical world. The world quite literally comes online one sensor, light bulb, car, or home at a time. This will undoubtedly bring with it sweeping changes. 
 
@@ -57,3 +57,5 @@ Transparency, inclusivity and diversity, governance and oversight, are all aspec
 Our theory of change is simple and straightforward: If everybody who is involved in making connected products and services makes better decisions on a day-to-day basis, the global outcome will improve significantly over time. 
 
 If every designer, developer, and entrepreneur makes every decision just a little more responsible, then a few years down the road these improved services and products combined  will touch the lives of hundreds of millions of millions of people around the globe.
+
++++
