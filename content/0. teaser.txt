@@ -4,7 +4,7 @@
 **Executive Summary:**
 **We went to Shenzhen to explore opportunities for collaboration between European Internet of Things practitioners and the Shenzhen hardware ecosystem—and how to promote the creation of a responsible Internet of Things.**
 
-The result is available online as a PDF (TK: LINK, 16MB, 91 pages) as well as a series of articles on Medium (TK: LINK):
+The result is [available online as a PDF (16MB, 91 pages)](https://www.dropbox.com/s/czpshkjls72xr5i/View%20Source%20Shenzhen.pdf?dl=0) as well as a [publication on Medium](https://medium.com/view-source-shenzhen):
 
 - Intro & how to get most out of this document
 - 1) Why is a responsible Internet of Things so important?
