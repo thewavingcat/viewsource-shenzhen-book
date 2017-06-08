@@ -110,8 +110,6 @@ This document was written as part of a larger research effort that included, amo
 
 This research was a collaborative effort undertaken with the Dutch design consultancy [The Incredible Machine](http://www.the-incredible-machine.com/), and our delegations to China included many Dutch designers, developers, entrepreneurs and innovators: One of the over-arching goals of this collaboration was to build bridges between Shenzhen and the Netherlands specifically—and Europe more generally—in order to learn from one another and identify business opportunities and future collaborations.
 
-We thank Creative Industries Fund NL for their support.
-
 /images/creativeindustriesfund_logo.jpg "We thank the Dutch Creative Industries Fund for their support."
 
 ### About the author

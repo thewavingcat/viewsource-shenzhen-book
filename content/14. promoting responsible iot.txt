@@ -8,6 +8,6 @@ Between the Mozilla Foundation's Open IoT Studio, Just Things Foundation, and Th
 
 One part of this effort is to build bridges through networking events and knowledge exchange programs. This is where our research trips to Shenzhen come in. First-hand experiences and face-to-face exchange is a crucial part of building trust and establishing a solid foundation for long-term collaboration.
 
-One part is documentation. Through this document, a short video documentary (TK: LINK TO SHENZHEN VIDEOS), as well as ongoing social media coverage and our various newsletters, we aim to disseminate what we have learned through our trips and conversations. We hope you will do the same if you have the chance to visit Shenzhen, or any other relevant hardware ecosystem: With every trip and every documentation, it becomes easier to form a full picture of how these ecosystems compare and how to best interface with them.
+One part is documentation. Through this document, a short video documentary, as well as ongoing social media coverage and our various newsletters, we aim to disseminate what we have learned through our trips and conversations. We hope you will do the same if you have the chance to visit Shenzhen, or any other relevant hardware ecosystem: With every trip and every documentation, it becomes easier to form a full picture of how these ecosystems compare and how to best interface with them.
 
 Another part is our initiative to promote trust labels for IoT (see chapter *Trustmarks for the Internet of Things*).
