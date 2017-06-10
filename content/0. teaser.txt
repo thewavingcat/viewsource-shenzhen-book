@@ -23,6 +23,7 @@ So we decided to go to where a large portion of IoT is *made*, and pull back the
 View Source is the initiative of an alliance of organizations that promote the creation of a responsible Internet of Things: 
 
 - [The Incredible Machine](http://the-incredible-machine.com/) is a Rotterdam-based design consultancy for products and services in a connected world.
+- [The Waving Cat](http://thewavingcat.com) is a Berlin-based boutique strategy, research & foresight company around the impact and opportunities of emerging technologies.
 - [ThingsCon](http://thingscon.com) is a global community of practitioners with the mission to foster the creation of a responsible & human-centric IoT.
 - [Mozilla Foundation's Open IoT Studio](https://twitter.com/openiotstudio) aims to embed internet stewardship in the making of meaningful, connected things.
 
