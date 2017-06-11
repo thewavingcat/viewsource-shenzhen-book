@@ -1,9 +1,9 @@
 # Summary
 
-[How to get most out of this document](/content/1. background.txt)
-[How to read this book](/content/2. how to read this book.txt)  
+* [How to get most out of this document](/content/1. background.txt)
+* [How to read this book](/content/2. how to read this book.txt)  
 
-[Why is responsible IoT so relevant?](/content/4. relevance of responsible iot.txt)
+* [Why is responsible IoT so relevant?](/content/4. relevance of responsible iot.txt)
 
 /content/5. a short history of shenzhen.txt
 /content/6. hardware ecosystem.txt
