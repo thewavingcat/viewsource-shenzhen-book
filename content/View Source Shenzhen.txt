@@ -7,8 +7,7 @@ Version: v1.02 / 12 June 2017
 View Source: Shenzhen
 by Peter Bihr   
 In collaboration with The Incredible Machine, supported by Creative Industries Fund NL.
-
-ISBN 978398188101.   
+  
 Copyright 2017 Peter Bihr.  
 Published by The Waving Cat GmbH, Prinzenstr. 84, 10969 Berlin, Germany.  
 June 2017: First Edition.
